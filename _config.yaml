@@ -1,0 +1,9 @@
+
+name: Arun Chandrasekaran
+
+description: Arun's random stuff
+
+url: http://carun.github.io
+
+plugins:
+  - jekyll-feed
