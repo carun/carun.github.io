@@ -46,10 +46,7 @@ done
 As a thumb rule, swappiness must be set to 0 (`echo 0 > /proc/sys/vm/swappiness` or via `sysctl.conf`) before the application starts and the `drop_caches` must be set to 3 periodically to avoid any kind of swaps and performance degradations.
 
 Once the app has been initialized and all the 60 GB has been loaded into the memory, the while loop to drop the unused cache is not needed and it can be terminated safely. But the moment you do a huge file read, don't forget to run the script in the background, of course, as root. The need to `drop_caches` entirely depends on your application. Setting swappiness to 0 is ideal in my opinion for all the server environments.
-
-The code fix is to use `posix_fadvice` with the `POSIX_FADV_NOREUSE` option since we will use the data in memory during the application initialization.
-
-[vmstat usage](http://codepad.org/6pXz0UOH) for the below content, when the swappiness was set to 60 and `drop_caches` was not triggered (by default its value will be 0).
+[vmstat log](http://codepad.org/6pXz0UOH) for the below content, when the swappiness was set to 60 and `drop_caches` was *not* triggered (by default its value will be 0).
 
 ```
 18:46:22 ~/MySpace/files-to-load# ls -l
@@ -62,3 +59,43 @@ total 4198384
 ```
 
 For the same content, [vmstat log](http://codepad.org/9bNwcdbW) when swappiness is set to 0 and frequent echo 3 on `drop_caches`.
+
+If it is not possible to do this `drop_cache` thing system wide, it can also be done programmatically via `posix_fadvice` API with the `POSIX_FADV_NOREUSE` option. A simple wrapper like this can be employed to use across all the services. At minimum, I have observed that services that generate lot of logs will benefit from this as the logs need not be cached by the kernel.
+
+```c++
+void discardKernelCache(FILE* fp)
+{
+    if (fp != null)
+    {
+        int fd = ::fileno(fp);
+        ::fdatasync(fd);
+        ::posix_fadvise(fd, 0, 0, POSIX_FADV_DONTNEED);
+    }
+}
+
+template <class T>
+void writeFile(std::string filename, const T& buffer, bool discardKernelBuffer = true)
+{
+    FILE* fp = ::fopen(filename.data(), "w");
+    if (discardKernelBuffer)
+        discardKernelCache(fp);
+    ::fwrite(buffer.data(), 1, buffer.size(), fp);
+    ::fflush(fp);
+    ::fclose(fp);
+}
+
+template <class T>
+void readFile(std::string filename, T& buffer, bool discardKernelBuffer = true)
+{
+    FILE* fp = ::fopen(filename.data(), "r");
+    if (discardKernelBuffer)
+        discardKernelCache(fp);
+    ::fseek(fp, 0, SEEK_END);
+    size_t fileSize = ::ftell(fp);
+    ::rewind(fp);
+    buffer.resize(fileSize);
+    ::fread(buffer.data(), 1, buffer.size(), fp);
+    ::fclose(fp);
+}
+```
+
