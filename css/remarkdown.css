@@ -407,27 +407,18 @@ hr {
  * Depends on default remarkdown.css
  */
 
-@media (min-width: 900px) {
-  html {
-    background-color: #EEE;
-  }
+body {
+    padding: 30px auto;
+    color: #d8dee7;
+    background-color: #0a0a0a;
 }
 
-body {
-  padding: 30px;
-  margin: 0 auto;
-  color: #d8dee7;
-  background-color: #0a0a0a;
-}
-  
 @media (min-width: 900px) {
-  body {
-    margin: 30px auto;
-    padding: 40px 80px;
-    border: 1px solid #DDD;
-    background-color: #0a0a0a;
-    box-shadow: 3px 3px 3px -2px #DDD;
-  }
+    body {
+        margin: 30px auto;
+        padding: 40px 80px;
+        background-color: #0a0a0a;
+    }
 }
 
 a {
