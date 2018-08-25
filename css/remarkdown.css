@@ -409,15 +409,15 @@ hr {
 
 body {
     padding: 30px auto;
-    color: #d8dee7;
-    background-color: #0a0a0a;
+    color: #22222;
+    background-color: white;
 }
 
 @media (min-width: 900px) {
     body {
         margin: 30px auto;
         padding: 40px 80px;
-        background-color: #0a0a0a;
+        background-color: #white;
     }
 }
 
@@ -467,11 +467,11 @@ nav > span {
 
 .remarkdown pre {
   white-space: pre-wrap;
-  color: #d8dee7ad;
+  color: darkblue;
 }
 
 .remarkdown code {
-  color: #d8dee7ad;  
+  color: darkblue;
 } 
 
 @media (max-width: 700px) {
