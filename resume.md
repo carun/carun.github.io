@@ -90,7 +90,7 @@ interaction with customers and in team formation from the ground up and team man
 
 ### Assistant Systems Engineer, Tata Consultancy Services Ltd, Sep 2004 – June 2007
 
-### JP Morgan and Chase
+#### JP Morgan and Chase
 
 *  Self learnt the entire architecture in a very short span of time and provided knowledge transition to the offshore team.
 *  Fixed highly critical bugs and memory leak in the multi-threaded job scheduler.
@@ -98,7 +98,7 @@ interaction with customers and in team formation from the ground up and team man
 *  Performance analysis and tuning of various applications and internal frameworks.
 *  Worked on the initial versions of AMQP protocol development.
 
-### Bangalore Turf Club - Automated Betting System
+#### Bangalore Turf Club - Automated Betting System
 
 *  Held complete ownership of the project.
 *  Fixed critical issues and provided on the spot solutions to the client. Achieved 100% customer satisfaction index.
