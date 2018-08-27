@@ -4,8 +4,7 @@ layout: base
 
 ## Philosophy
 
-Innovation, customer orientation and effective collaboration are my Objectives. I strive to perform these to my fullest in my
-daily activities.
+Innovation, customer orientation and effective collaboration are my objectives.
 
 I am passionate about high performance, distributed and cluster computing with extensive experience in
 architecture, design and development of robust, low latent, high throughput systems. I possess commendable experience
