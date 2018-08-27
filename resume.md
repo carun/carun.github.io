@@ -36,12 +36,12 @@ interaction with customers and in team formation from the ground up and team man
 
 ### Senior Software Engineer, NEC Corporation of America, March 2016 - present
 
+*  NEC's biometrics expert (SME) for various projects: Los Angeles Sheriff's Dept, Illinois State Police, ACIC, Egypt MOI, Huntsville Police Dept, California DOJ, United States CBP, New South Wales - RMS.
 *  Created [AIM-XM](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMXM/), a biometric matcher designed with specific focus on latency and a biometrics gallery of 1 billion records.
 *  Created [AIM-ES](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMES/), a biometrics microservice with truly elastic capability that acts as backend for various airports in the USA.
 *  Created [NeoFace®
 Express](https://www.necam.com/AdvancedRecognitionSystems/Products/FacialRecognition/Solutions/NeoFaceExpress/) deployed in various airports for seamless embarkation and disembarkation.
 *  Statistical analysis of various algorithms in terms of accuracy and speed.
-*  Biometrics expert (SME) for various projects: LASD, ISP, ACIC, Egypt MOI, HPD, California DOJ, Digitus DOS, US CBP.
 *  Writing and reviewing design documentations and helping the team in various phases across SDLC.
 *  Creating solution architecture for various customers and opportunities.
 *  Ensuring quality of deliverables through continuous delivery best practices.
