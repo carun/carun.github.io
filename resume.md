@@ -36,10 +36,12 @@ interaction with customers and in team formation from the ground up and team man
 
 ### Senior Software Engineer, NEC Corporation of America, March 2016 - present
 
-*  Created AIM-XM, a biometric matcher designed with specific focus on latency and a biometrics gallery of 1 billion records.
-*  Created AIM-ES, a biometrics microservice with truly elastic capability that acts as backend for various airports in the USA.
-*  Created NeoFace® Express deployed in various airports for seamless embarkation and disembarkation.
+*  Created [AIM-XM](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMXM/), a biometric matcher designed with specific focus on latency and a biometrics gallery of 1 billion records.
+*  Created [AIM-ES](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMES/), a biometrics microservice with truly elastic capability that acts as backend for various airports in the USA.
+*  Created [NeoFace®
+Express](https://www.necam.com/AdvancedRecognitionSystems/Products/FacialRecognition/Solutions/NeoFaceExpress/) deployed in various airports for seamless embarkation and disembarkation.
 *  Statistical analysis of various algorithms in terms of accuracy and speed.
+*  Biometrics expert (SME) for various projects: LASD, ISP, ACIC, Egypt MOI, HPD, California DOJ, Digitus DOS, US CBP.
 *  Writing and reviewing design documentations and helping the team in various phases across SDLC.
 *  Creating solution architecture for various customers and opportunities.
 *  Ensuring quality of deliverables through continuous delivery best practices.
@@ -50,6 +52,7 @@ interaction with customers and in team formation from the ground up and team man
 ### Senior Technical Manager, NEC Technologies India Ltd, Oct 2011 - Feb 2016
 
 *  Managing and guiding teams for various projects like UIDAI Aadhaar.
+*  NEC's Biometrics expert for UIDAI Aadhaar project.
 *  Planning for future products and evaluating the ideas through proof of concepts.
 *  Writing and reviewing design documentations and helping the team in various phases across SDLC.
 *  Architecture development & delivery of various products related to biometrics.
