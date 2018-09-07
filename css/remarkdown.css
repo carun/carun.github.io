@@ -462,7 +462,8 @@ nav > span {
 
 /* Our own font-family. Also setting one for code elements */
 .remarkdown {
-  font-family: monospace
+  font-family: monospace;
+  font-size: 14px;
 }
 
 .remarkdown pre {
