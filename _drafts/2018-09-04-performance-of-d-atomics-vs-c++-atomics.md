@@ -9,18 +9,18 @@ This is a simple test to compare the increment operation between D atomics and C
 When comparing the std.experimental.logger module in phobos with spdlog I noticed that
 the atomic increment operation with C++ takes longer than that in D.
 
-C++11 introduced atomic variables. By default it enforces sequential consistency.
+C++11 introduced atomic variables that the 'atomicity' is tied to the variable declaration.
 
 D achieves this by not tieing the atomicity to the variable declaration, but by
 implementing it as a function (the operation is performed on a _normal_ variable).
-To me this looks like a clean design as the atomicity is not tied to the type.
 
 ## Performance
 
 Without arguing which design is best, let's look at the difference in performance.
 
-C++ STL [documentation on atomics]() and D's Phobos [documentation on atomics](https://dlang.org/phobos/core_atomic.html#.atomicLoad)
-states that the default memory ordering is sequential consistency.
+C++ STL [documentation on memory ordering](https://en.cppreference.com/w/cpp/atomic/memory_order) and D's Phobos
+[documentation on memory ordering](https://dlang.org/phobos/core_atomic.html#.atomicLoad) state that the
+default memory ordering is sequential consistency. So it _could_ hurt the performance in some cases.
 
 C++ STL calls `__atomic_fetch_add` that's implemented by [GCC](https://gcc.gnu.org/onlinedocs/gcc/_005f_005fatomic-Builtins.html).
 
@@ -46,7 +46,7 @@ user    0m20.124s
 sys     0m0.000s
 ```
 
-Surprisingly D code is 20% faster than C++ version. Time to dig into the details.
+Surprisingly D code is 20% faster than C++ version. Let's look at the code.
 
 ## C++ code
 
@@ -101,7 +101,7 @@ int main(int argc, char *argv[])
         ret
 ```
 
-* Disassembly output on Ubuntu with G++ 7.3
+* Disassembly output
 
 ```asm
 Disassembly of section .text:
@@ -157,7 +157,6 @@ void logMe(const int tid)
 * Godbolt output
 
     With LDC 1.10.0 [Godbolt online compiler](https://godbolt.org/z/JjfTyw) showed that the assembly generated for the `logMe` function is
-
 ```asm
 void example.logMe(const(int)):
         mov     rax, qword ptr [rip + shared(int) example.msgCounter@GOTPCREL]
@@ -171,7 +170,6 @@ void example.logMe(const(int)):
 ```
 
 * Disassembly output
-
 ```asm
 0000000000000000 <void app.logMe(const(int))>:
    0:   48 8b 05 00 00 00 00    mov    0x0(%rip),%rax        # 7 <void app.logMe(const(int))+0x7>
