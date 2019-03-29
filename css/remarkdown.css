@@ -410,14 +410,14 @@ hr {
 body {
     padding: 30px auto;
     color: #d8dee7;
-    background-color: #0a0a0a;
+    background-color: #292d3e;
 }
 
 @media (min-width: 900px) {
     body {
         margin: 30px auto;
         padding: 40px 80px;
-        background-color: #0a0a0a;
+        background-color: #292d3e;
     }
 }
 
@@ -463,7 +463,7 @@ nav > span {
 /* Our own font-family. Also setting one for code elements */
 .remarkdown {
   font-family: monospace;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .remarkdown pre {
@@ -472,7 +472,8 @@ nav > span {
 }
 
 .remarkdown code {
-  color: #d8dee7ad;  
+  color: #d8dee7ad;
+  font-size: 13px;
 } 
 
 @media (max-width: 700px) {
