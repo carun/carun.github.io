@@ -4,7 +4,7 @@
   Defaults: hn-reset hn-hash ul-hyphen ol-decimal quote-gt em-star strong-star a-bracket code-tick pre-indent hr-star
 */
 .remarkdown {
-  line-height: 1.5;
+  line-height: 1.618;
   font-family: monospace;
 }
 
@@ -14,6 +14,7 @@
 .remarkdown samp {
 }
 
+/*
 .remarkdown h1 {
   font-size: inherit;
   font-weight: inherit;
@@ -94,6 +95,7 @@
 .remarkdown.h2-underline h2::after {
   content: "------------------------------------------------------------------------------------------------------------------------";
 }
+*/
 
 .remarkdown p {
   margin-top: 1.5em;
@@ -422,15 +424,15 @@ body {
 }
 
 a {
-  color: #F02050;
+  color: #FFFF33;
   text-decoration: none;
 }
 a:hover {
   border-bottom: 1px solid;
 }
 a:focus, a:active {
-  color: white;
-  background-color: #F02050;
+  color: black;
+  background-color: #FFFF00;
 }
 
 nav {
@@ -457,13 +459,13 @@ nav > span {
 .remarkdown ::before,
 .remarkdown ::after {
   opacity: .6;
-  color: #ff1004;
+  color: #ffff00;
 }
 
 /* Our own font-family. Also setting one for code elements */
 .remarkdown {
   font-family: monospace;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .remarkdown pre {
@@ -473,7 +475,7 @@ nav > span {
 
 .remarkdown code {
   color: #d8dee7ad;
-  font-size: 13px;
+  font-size: 16px;
 } 
 
 @media (max-width: 700px) {
