@@ -4,6 +4,7 @@
   Defaults: hn-reset hn-hash ul-hyphen ol-decimal quote-gt em-star strong-star a-bracket code-tick pre-indent hr-star
 */
 .remarkdown {
+  /* Golden ratio */
   line-height: 1.618;
   font-family: monospace;
 }
@@ -282,6 +283,7 @@ hr {
 }
 
 .remarkdown pre {
+  line-height: 1.15;
   margin-top: 1.5em;
   margin-bottom: 1.5em;
   tab-size: 4;
