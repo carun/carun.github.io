@@ -2,16 +2,17 @@
 layout: base
 ---
 
-## Philosophy
+## Summary
 
-Innovation, customer orientation and effective collaboration are my objectives.
+Innovation, customer orientation, effective collaboration, organizational values and revenue growth are my objectives.
 
-I am passionate about high performance, distributed and cluster computing with extensive experience in
-architecture, design and development of robust, low latent, high throughput systems. I possess commendable experience
-with team management and across the entire SDLC with a strong emphasis on clean room practices and quality assurance
-with more than 14 years of experience. I have proven track record in building Greenfields products that involve close
-interaction with customers and in team formation from the ground up and team management.
-
+A passionate, strategic, Product and Technology Executive who pioneered market leading products from concept ideation to
+delivery and hence Advance Corporate Goals, Support Business Strategy, Enhance Revenue Growth and Profitability in the
+Biometrics Industry. Adept at planning and managing complex multimillion-dollar projects to completion with quality to
+the satisfaction of customers. Expert at maximizing ROI through innovation, creativity and using proven project
+management methodologies (agile & iterative). Effective, articulate and proactive communicator who readily gains the
+confidence of Senior Executives, customers, direct and indirect reports, vendors and other stake holders. Highly
+accountable with utmost integrity. Demonstrated history of working in the information technology and services industry.
 
 ## Areas of Expertise
 
@@ -21,7 +22,7 @@ interaction with customers and in team formation from the ground up and team man
 | •   Low latent and high throughput computing     | | | | | | •   Qt, Boost, Android NDK                      |
 | •   Product and project delivery                 | | | | | | •   JNI, TCP/IP, HTTP                           |
 | •   Solution and software architecture           | | | | | | •   GDB, strace, valgrind, DDD, gcov            |
-| •   Team management                              | | | | | | •   C-ISAM, MySQL, Oracle, Berkeley DB          |
+| •   Team creation and management                 | | | | | | •   C-ISAM, MySQL, Oracle, Berkeley DB          |
 | •   Technical presales                           | | | | | | •   Git, Mercurial, SVN                         |
 | •   Process design & software quality            | | | | | | •   Vim as IDE                                  |
 
@@ -33,7 +34,7 @@ interaction with customers and in team formation from the ground up and team man
 
 ## Experience
 
-### Senior Software Engineer, NEC Corporation of America, March 2016 - present
+### Software Development Manager, NEC Corporation of America, March 2016 - present
 
 *  NEC's biometrics expert (SME) for various projects: Los Angeles Sheriff's Dept, Illinois State Police, ACIC, Egypt MOI, Huntsville Police Dept, California DOJ, United States CBP, New South Wales - RMS.
 *  Created [AIM-XM](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMXM/), a biometric matcher designed with specific focus on latency and a biometrics gallery of 1 billion records.

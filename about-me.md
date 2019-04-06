@@ -2,7 +2,7 @@
 layout: post
 ---
 
-I am a software engineer predominantly architecting, designing and developing low latency and high througput software
+I am a software development manager predominantly architecting, designing and developing low latency and high througput software
 applications.  I work with [NEC Corporation of America](https://www.necam.com/) in California.
 
 In my precious spare time I'm mostly doing stuff involving C/C++, D, Java and whatever strikes my fancy.
