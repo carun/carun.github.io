@@ -4,7 +4,7 @@ layout: base
 
 ## Summary
 
-Innovation, customer orientation, effective collaboration, organizational values and revenue growth are my objectives.
+Leadership, innovation, product management, collaboration, decision making, customer orientation and revenue growth are my objectives.
 
 A passionate, strategic, Product and Technology Executive who pioneered market leading products from concept ideation to
 delivery and hence Advance Corporate Goals, Support Business Strategy, Enhance Revenue Growth and Profitability in the
@@ -17,13 +17,13 @@ accountable with utmost integrity. Demonstrated history of working in the inform
 ## Areas of Expertise
 
 | •   End-to-end product development and delivery  | | | | | | •   C, C++, Linux, Windows, IPC, Multithreading |
-| •   Distributed and grid computing               | | | | | | •   Java, Python, D                             |
+| •   Distributed and grid computing               | | | | | | •   Java, Python, D, Rust                       |
 | •   Message queue and event driven system design | | | | | | •   AMQP, RabbitMQ, ZeroMQ                      |
 | •   Low latent and high throughput computing     | | | | | | •   Qt, Boost, Android NDK                      |
 | •   Product and project delivery                 | | | | | | •   JNI, TCP/IP, HTTP                           |
 | •   Solution and software architecture           | | | | | | •   GDB, strace, valgrind, DDD, gcov            |
-| •   Team creation and management                 | | | | | | •   C-ISAM, MySQL, Oracle, Berkeley DB          |
-| •   Technical presales                           | | | | | | •   Git, Mercurial, SVN                         |
+| •   Technical team creation and management       | | | | | | •   C-ISAM, MySQL, Oracle, Berkeley DB          |
+| •   Customer and partnership engagement          | | | | | | •   Git, Mercurial, SVN                         |
 | •   Process design & software quality            | | | | | | •   Vim as IDE                                  |
 
 
@@ -34,78 +34,47 @@ accountable with utmost integrity. Demonstrated history of working in the inform
 
 ## Experience
 
-### Software Development Manager, NEC Corporation of America, March 2016 - present
+### Sr. Software Development Manager, NEC Corporation of America, March 2016 - present
 
+*  As a core member of the leadership team, defined engineering processes across organization and scale the organization into numerous engineers across geographies (US, Portugal, India, Japan).
+*  Predicted market trends - influenced and introduced the vision and execution for cloud native products.
+*  Listen to real-world customer inputs and strategize product development pipeline.
+*  Led numerous POC that resulted in revenues of more than $50 million.
+    - *Federal*: US CBP, US DHS, UK-HOB, UK Met.
+    - *Aviation*: Delta, GMR, AAI, SBH, United.
+    - *CX*: Universal, Aramco, Visa.
+*  Setup and manage core platform teams, edge and mobile teams from the ground up.
+*  Mentor and coach teams to operate enthusiastically with their full potential.
+*  Introduce developer experience & created processes to facilitate the goal.
+*  Guide teams in creating products that are deployed across the globe on AWS/Azure clouds across various verticals like Federal, Law-enforcement, Aviation, Retail and Payment.
+*  Created large scale distributed systems that scale to allow millions of task executions in non-deterministic traffic patterns and workflows.
+*  Strategize and prioritize product development, guide teams with changing priorities and architectural decisions
+*  Work with cross functional teams in meeting the deliverable schedules and customer satisfaction.
+*  Led teams in the delivery of products and projects.
+*  Coordinate global teams across continents, synergize product road-maps, development & delivery.
+*  Drive and synergize R&D teams in NEC Labs US, Israel, Europe and Japan for future technologies.
+*  Engage with finance team and Japan HQ on budgeting and resource management decisions.
+*  Created 4 patents and won numerous awards.
 *  NEC's biometrics expert (SME) for various projects: Los Angeles Sheriff's Dept, Illinois State Police, ACIC, Egypt MOI, Huntsville Police Dept, California DOJ, United States CBP, New South Wales - RMS.
 *  Created [AIM-XM](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMXM/), a biometric matcher designed with specific focus on latency and a biometrics gallery of 1 billion records.
-*  Created [AIM-ES](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMES/), a biometrics microservice with truly elastic capability that acts as backend for various airports in the USA.
+*  Created [AIM-ES](https://www.necam.com/AdvancedRecognitionSystems/Products/AIMES/), a biometrics microservice with truly elastic capability that acts as backend for various airports in the USA, with very high concurrency and throughput requirements.
 *  Created [NeoFace®
 Express](https://www.necam.com/AdvancedRecognitionSystems/Products/FacialRecognition/Solutions/NeoFaceExpress/) deployed in various airports for seamless embarkation and disembarkation.
 *  Statistical analysis of various algorithms in terms of accuracy and speed.
-*  Writing and reviewing design documentations and helping the team in various phases across SDLC.
-*  Creating solution architecture for various customers and opportunities.
-*  Ensuring quality of deliverables through continuous delivery best practices.
-*  Estimating the hardware requirements for various deployments.
-*  Working with the sales team for various proposals.
-*  Writing white papers.
 
 ### Senior Technical Manager, NEC Technologies India Ltd, Oct 2011 - Feb 2016
 
-*  Managing and guiding teams for various projects like UIDAI Aadhaar.
-*  NEC's Biometrics expert for UIDAI Aadhaar project.
+*  Establishing different teams and managing their activities in creating high scalable architecture and solutions.
 *  Planning for future products and evaluating the ideas through proof of concepts.
-*  Writing and reviewing design documentations and helping the team in various phases across SDLC.
 *  Architecture development & delivery of various products related to biometrics.
 *  Created NeoFace® Enterprise Video Analytics – A large scale facial surveillance and analytics system.
 *  Created NeoFace® Links – A video analysis product for latent face examinations.
 *  Created NeoFace® SmartID – Android based mobile application for facial queries.
 *  Leading the development of multi-core, large scale ABIS systems with face, iris and fingerprint recognition.
-*  Design of several biometric analysis tools and guiding the team in developing the same.
-*  Spearheading the continuous delivery process through automation from the earlier stage of the product/project.
+*  Setting the visions for the teams to follow and ensuring they are achieved.
 *  Team grooming, knowledge management and conflict resolution.
-*  Drive the organization towards CMMI level 3.
 
 ### Associate, Cognizant Technology Solutions, Feb 2010 – Oct 2011
-
-*  Re-engineered the multi-core, large scale biometric fingerprint and palm recognition system by finding the bottlenecks in the existing system.
-*  Proposed ideas to replace HTTP based system architecture with message queue for cloud based operations.
-*  Proactively developed a custom build system (using make) to integrate third party libraries on Linux.
-*  Designed and developed biometric multimodal SDK for UIDAI.
-*  Developed and implemented the coding standards. Standardized the Linux environment and tools for development and testing.
-*  FogBugz evangelist – with specific focus on personal effectiveness to improve productivity and excellence.
-*  Proactively proposed solutions to improve the product development, processes and delivery methodologies to Japanese counterparts
-*  Proactively developed an alternative product for the existing large scale matcher specifically focused on performance.
-
 ### Senior Software Engineer, 121VIEW Media Holdings, Singapore, May 2008 – Jan 2010
-
-*  Greenfields product design and development.
-*  Created vision for Customer Measurement Passive Tracking.
-*  Design and development of video scheduling algorithms.
-*  Designed and developed 3-tier architecture of digital signage management server and media player clients.
-*  Design and development of a socket server module into the VLC media player.
-*  Hacking the VLC player to render videos in a Walled mode.
-*  Development of a remote control add-on for the Mozilla Firefox browser (secure).
-*  Concept creation, design and development of touch screen application to trigger media playback.
-*  Concept creation, design and development of end to end billing system for the digital signage solutions.
-*  Lead the team for product development on embedded platform (OMAP 3530).
-*  Designed and developed video playback triggering based on the demography of the face detected.
-*  Developed GTK frontend over the face detection module to plot real-time demographic information.
-
 ### Assistant Systems Engineer, Tata Consultancy Services Ltd, Sep 2004 – June 2007
-
-#### JP Morgan and Chase
-
-*  Self learnt the entire architecture in a very short span of time and provided knowledge transition to the offshore team.
-*  Fixed highly critical bugs and memory leak in the multi-threaded job scheduler.
-*  Migrated the equity C++ applications from RHEL 4 to RHEL 5.
-*  Performance analysis and tuning of various applications and internal frameworks.
-*  Worked on the initial versions of AMQP protocol development.
-
-#### Bangalore Turf Club - Automated Betting System
-
-*  Held complete ownership of the project.
-*  Fixed critical issues and provided on the spot solutions to the client. Achieved 100% customer satisfaction index.
-*  Designed and developed a multi-threaded application in C and sockets to load test the solution.
-*  Planned and coordinated a team of HP, TCS and BTC in the server and network architecture revamp. Won the Star of the Month award.
-*  Designed and developed a payroll system in C (curses library), C-ISAM and AWK and integrated it with the existing system.
 
