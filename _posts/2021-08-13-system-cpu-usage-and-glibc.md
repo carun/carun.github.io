@@ -8,8 +8,8 @@ This article discusses the high level details with `std::vector`, `glibc` and
 how allocating large memory regions impact CPU usage under extreme CPU and
 memory pressure.
 
-As a gist, prefer direct `mmap` with `MAP_SHARED|MAP_ANONYMOUS` over
-`std::vector` or `malloc` that uses `mmap` internally with
+As a gist, prefer direct `mmap` with `MAP_POPULATE|MAP_SHARED|MAP_ANONYMOUS`
+over `std::vector` or `malloc` that uses `mmap` internally with
 `MAP_PRIVATE|MAP_ANONYMOUS`.
 
 Continue to read if still interested in the details.
@@ -54,17 +54,12 @@ Major page faults cannot be the influencing factor since the swaps were turned
 off. There was a clear correlation between kernel CPU usage spike,
 `awk '{print $10}' /proc/$(pidof X)/stat` and `dstat --vm`. The minor page
 faults were in the order of 2500k. This is way over the average 500 limit.
-We figured that the [TLB
-misses](https://en.wikipedia.org/wiki/Translation_lookaside_buffer){:target="_blank"} causes
+We figured that the [page table translation failures and TLB
+misses](https://en.wikipedia.org/wiki/Page_table#Translation_failures){:target="_blank"} causes
 minor page faults in the kernel and the CPU cycles were spent to populate the
-TLB.
+page table.
 
 ![High system CPU during page faults](/images/high-system-cpu-glibc-20210808.png)
-
-TLB is a map that has the translation details of the process virutal memory
-address to the host's physical memory address. Whenever the process tries to
-access data that's not not in cache, TLB is looked up first to get it's
-physical location on RAM to fetch the data from the physical hardware.
 
 ## But why?
 
@@ -173,27 +168,28 @@ exit_group(0)                           = ?
 
 Our biometric datasets are sized at 1 GiB for easier file management as we could
 turn on transparent huge pages, if required. So it is guaranteed that `mmap` is
-being used under the hood by `std::vector`, so why was there TLB misses in the
+being used under the hood by `std::vector`, so why was there page table misses in the
 first place? That's because the `MAP_PRIVATE` flag instructs the kernel to
-turn off `VM_SHARED` flag when creating the mapping in the kernel. This causes TLB
-to be cold and populate it only on demand, via page faults. As long as this
-translation is small, there's no overhead. However as the memory pressure
-increases with concurrency, the kernel has to fight hard to populate TLB.
+turn off `VM_SHARED` flag when creating the mapping in the kernel. This causes
+page tables and TLB to be cold and populate it only on demand, via page faults.
+As long as this translation is small, there's no overhead. However as the memory
+pressure increases with concurrency, the kernel has to fight hard to populate
+the page tables and TLB.
 
 To the kernel, all the processes and the threads within a process are tasks.
 When `VM_SHARED` is set via `MAP_SHARED` from the user space, the kernel ensures
-the mapping is shared across tasks with their TLB populated as well. This
+the mapping is shared across tasks with their page tables populated as well. This
 includes threads within a single process. All the books, articles and resources
 use the term `process` in the context of task, but misses the whole point and
 fail to explain this critical difference.
 
 When `MAP_SHARED` is used, the initial process/task creation could be
-fractionally slower as the TLB gets filled. However once the TLB is hot, the
+fractionally slower as the page tables gets filled. However once the page tables are hot, the
 worker threads will be ready to rock and roll and the address translation is the
 only overhead they will have to endure. This will not cause any page faults.
 
 This was never a problem in the multi-process architecture as they always
-communicated through shared memory with hot TLB.
+communicated through shared memory with hot page tables.
 
 The book "Understanding the Linux Kernel" goes in depth in explaining the finer
 details about how it is implemented in the kernel in the Memory Management
@@ -249,3 +245,11 @@ without writing something into it, after all, why else will they allocate in the
 first place? As the size of memory being requested is large, it makes sense to
 use `MAP_SHARED|MAP_ANONYMOUS` as the default in glibc.
 
+## Edit
+
+* As pointed out in [HN thread](https://news.ycombinator.com/item?id=28225482),
+both page table misses and TLB misses cause page faults, not just TLB misses.
+However NUMA was not a problem, as THP defragmentation has been disabled.
+* Upon further research I found that `MAP_POPULATE` gets the job done. The work
+around of using `mmap` instead of `std::vector` is still a valid choice and
+`MAP_SHARED` skipped in favour of that.
