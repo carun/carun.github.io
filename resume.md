@@ -34,7 +34,12 @@ accountable with utmost integrity. Demonstrated history of working in the inform
 
 ## Experience
 
-### Sr. Software Development Manager, NEC Corporation of America, March 2016 - present
+### Director - Software Engienering, Paravision AI, April 2022 - Present
+
+* Establish development processes
+* Create Paravision AI Platform
+
+### Sr. Software Development Manager, NEC Corporation of America, March 2016 - March 2022
 
 *  As a core member of the leadership team, defined engineering processes across organization and scale the organization into numerous engineers across geographies (US, Portugal, India, Japan).
 *  Predicted market trends - influenced and introduced the vision and execution for cloud native products.
