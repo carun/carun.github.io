@@ -27,8 +27,8 @@ Bhakti techniques, given my upbringing in a Hindu family where I had performed
 and attended rituals with my current rational mind, I wasn't convinced by the
 Bhakti path.
 
-My perspective shifted when I encountered Dr. Daniel Ingram's book, ["Mastering the
-Core Teachings of the Buddha](https://www.mctb.org/), which offered a practical approach to
+My perspective shifted when I encountered Dr. Daniel Ingram's book, [Mastering the
+Core Teachings of the Buddha](https://www.mctb.org/)[^1], which offered a practical approach to
 enlightenment without mysticism. Inspired, I delved into the techniques outlined
 in his book, embarking on self-retreats intermittently for several months until
 I reached a stage known as the Dark Night, which I'll delve into in future and I
@@ -38,7 +38,7 @@ Realizing the need for formal, in-person meditation training, I sought out
 Insight meditation retreats in the Theravada tradition, free from sectarian
 beliefs and dogmas. Dan recommended
 [Tattagatha](https://www.tathagata.org/retreats) in San Jose, California, which
-caught my attention, offering free 60-day retreats. I couldn't find a way to
+caught my attention, offering 60-day retreats. I couldn't find a way to
 give 60 days time commitment.
 
 Then, I stumbled upon a [10 day retreat by SN Goenka](https://dhamma.org/),
@@ -71,7 +71,7 @@ had sought, a crucible for inner transformation.
 
 ## Days 1 to 2: The Battle with the Monkey
 
-On Day 1, despite setting my alarm for 3:59 am, I naturally woke up at 4:00 am.
+On Day 1, despite setting my alarm for 4:00 am, I naturally woke up at 3:59 am.
 It felt like the universe was aligning with my intentions. After a bracing cold
 shower, I dove straight into meditation at 4:30 am. My mind, ever the wanderer,
 whisked me away to both real and imaginary realms. This pattern persisted during
@@ -88,13 +88,13 @@ discomfort was temporary, a passing phase on the path to inner growth.
 
 ## Day 3: Narrowing the region of attention
 
-On Day 3, our focus shifted to the region below the nostrils, and I noticed a
-significant improvement in my ability to concentrate. This sharpening of the
-mind came as a welcome development, even though maintaining this focus
-throughout the day proved to be a formidable challenge. My body began to exhibit
-signs of fatigue, prompting thoughts about the curriculum for the remaining
-days. Despite my dwindling energy, I remained undeterred, determined to
-persevere.
+On Day 3, our focus shifted to the region below the nostrils and above the upper
+lips, and I noticed a significant improvement in my ability to concentrate. This
+sharpening of the mind came as a welcome development, even though maintaining
+this focus throughout the day proved to be a formidable challenge. My body began
+to exhibit signs of fatigue, prompting thoughts about the curriculum for the
+remaining days. Despite my dwindling energy, I remained undeterred, determined
+to persevere.
 
 However, the chanting during our meditation sessions presented a cultural hurdle
 for me. The language used, Hindi, felt discordant to my ears, with the tune
@@ -102,26 +102,34 @@ resembling a mourning chant rather than the peaceful, energizing chants I was
 accustomed to in Sanskrit and Tamil. Nonetheless, I resolved to remain
 open-minded and focused on my personal journey of self-discovery.
 
-## Day 4: Insights and persistence
+## Day 4: Vipashana and persistence
 
 On Day 4, the practice evolved as we were instructed to observe sensations
 across different parts of the body, from the crown of the head to the soles of
 the feet, while discerning the three characteristics inherent in each sensation.
 This approach resonated with me, as I had encountered these principles
-previously in Dan's book. The task was clear: methodically observe each part of
+previously in MCTB. The task was clear: methodically observe each part of
 the body, honing in on the impermanence, unsatisfactoriness, and selflessness
-present in every sensation.
+present in every sensation. Whether experiencing a pleasant sensation akin to
+electric pulse-like vibrations or an unpleasant one such as itch, tingle, sweat,
+or burn, the goal was to observe them without bias. This meant cultivating
+equanimity by neither craving the pleasant nor averting from the unpleasant.
+
+For me, this approach felt natural, as I consciously rejected the notion of
+categorizing sensations as either pleasant or unpleasant. Instead, I embraced
+each sensation with equal acceptance, allowing for a deeper understanding of the
+impermanent and selfless nature of all phenomena.
 
 ## Day 5: Reflections
 
 On Day 5, the meditation instructions took a new direction, prompting us to
 observe sensations from bottom to top and then alternating between top to bottom
-and bottom to top. While we were prohibited from taking notes, a practice
-advocated by Dan in his book, I found value in reflecting on each session
-afterward. This post-sit reflection allowed me to gauge the effectiveness of my
-practice and identify areas for improvement. By remaining focused and
-introspective in this way, I not only stayed on track but also made significant
-strides along the path of self-discovery and calmness with my mind.
+and bottom to top. While we were prohibited from taking notes post sits, a
+practice advocated by Dan in his book, I found value in reflecting on each
+session afterward. This post-sit reflection allowed me to gauge the
+effectiveness of my practice and identify areas for improvement. By remaining
+focused and introspective in this way, I not only stayed on track but also made
+significant strides along the path of self-discovery and calmness with my mind.
 
 ## Days 6 to 8: Equanimity
 
@@ -139,15 +147,18 @@ self-retreats prior to the Dark Night. However, this time, I encountered
 difficulty in realizing these truths. Despite my knowledge and prior experiences
 pointing towards the non-existence of self, I struggled to witness it firsthand.
 
+In parallel I was struggling with back ache in my middle and upper spine due to
+long sits. By now I had tried padmasanaa, sidhasana, vajraasanaa[^2] and I know
+there's no magic on the floor. All of them yielded nothing but pain.
 
 [![](https://img.youtube.com/vi/996afHNbbG0/default.jpg)](https://www.youtube.com/watch?v=996afHNbbG0)
 
 Persisting in my inquiry, I reached a pivotal realization: I had been neglecting
 a crucial aspect of practice - relaxation and smiling, as taught by Bante
-Vimalaramsi As I embraced this technique wholeheartedly, a profound shift
-occurred. Suddenly, I experienced a profound disassociation of the self from
-sensations, marking a significant milestone in my journey of self-discovery and
-realization.
+Vimalaramsi in his Metta meditation. As I embraced the relax and smile technique
+wholeheartedly, a profound shift occurred. Suddenly, I experienced a profound
+disassociation of the self from sensations, marking a significant milestone in
+my journey of self-discovery and realization.
 
 ## Day 9: Persistence
 
@@ -176,23 +187,26 @@ self and the power of silence in fostering inner peace.
 The introduction of loving-kindness meditation, known as Metta in Pali language,
 marked a significant departure from the Vipassana technique I had been immersed
 in. While Metta was not new to me, having practiced it before under the guidance
-of Bante, its inclusion in the retreat presented a novel approach to meditation.
-Unlike Vipassana, where sensations are the focus, Metta meditation centers on
-cultivating feelings of happiness and loving-kindness.
+of Bante, its inclusion in the retreat was presented as a soothing balm to the
+wound. Unlike Vipassana, where bodily sensations are the focus, Metta meditation
+centers on cultivating feelings of happiness and loving-kindness, and using this
+feeling as the object of meditation. To be honest, I felt Goenka fell terribly
+short on this method.
 
 [![Guided Metta Meditation](https://img.youtube.com/vi/XxJFum2RYIs/default.jpg)](https://www.youtube.com/watch?v=XxJFum2RYIs)
 
-Initially, the teacher's chanting during the Metta session felt reminiscent of
-familiar Hindu traditions, but the monotonous tone disrupted my meditation,
-prompting me to return to Vipassana. Yet, during moments of silence in the
-meditation hall, I found myself naturally gravitating towards Metta using
-Bante's technique.
+Initially, the Goenka's chanting during the Metta session felt reminiscent of
+familiar Hindu traditions, but the mourning tone disrupted my meditation,
+prompting me to return to Vipassana. Yet, when others were practising Vipashana
+in silence, I found myself naturally gravitating towards Metta using Bante's
+technique.
 
 As I immersed myself in Metta, I experienced a profound shift. Uttering the
-phrase "Sarveeshaam svasthir bavathu" in my mind with pure intentions, I was
-overwhelmed by a surge of pleasant sensations, accompanied by tears. However,
-this experience, though initially euphoric, soon gave way to uncertainty and
-discomfort. Was this rush of sensations a manifestation of dissatisfaction? I
+phrase "Sarveeshaam svasthir bavathu"[^3] in my mind with pure intentions, I was
+overwhelmed by a surge of pleasant sensations, accompanied by tears. This
+persisted for over 2 minutes. However, this experience, though initially
+euphoric, soon gave way to discomfort as it moved my focus away from the feeling
+of happiness. Was this rush of sensations a manifestation of dissatisfaction? I
 couldn't be certain.
 
 As I alternated between focusing on happiness and grappling with distractions, I
@@ -214,7 +228,6 @@ hard. When you take a few moments to relax and just observe what's going on and
 the butterflies will sit all over you. Good things in life are like these
 butterflies.
 
-
 ## Body Statistics
 
 My body felt like it was beaten to pulp after long sits for 10 days. I slept
@@ -233,10 +246,61 @@ Squats|195 lb x 5 reps x 2 sets|110 lb x 3 reps x 1 set
 
 ## Conclusion
 
-In conclusion, I wholeheartedly recommend such retreats to anyone seeking to
-enhance their lives and nurture their emotional well-being. For the greatest
-journey is not one of external exploration, but rather the deep dive into the
-recesses of our own consciousness. True happiness lies not in reaching a
-destination but in savoring the moments along the way.
+Life unfolds in its own way, yet our minds often impulsively react to its twists
+and turns. Retreats like this offer an opportunity to rewire our responses,
+fostering mindful reactions imbued with genuine peace and wholesomeness,
+regardless of the circumstances. In conclusion, I wholeheartedly recommend such
+retreats to anyone seeking to enrich their lives and cultivate emotional
+well-being. For the most profound journey is not one of external discovery, but
+rather an introspective voyage into the depths of our own consciousness. True
+happiness is found not in reaching a destination, but in cherishing the moments
+along the way. Embrace this journey fully!
 
-Until next time, may each of you find peace, harmony, and boundless happiness.
+Until next time, may you find peace, harmony, and boundless happiness.
+
+## Footnotes
+
+[^1]: [MCTB audiobook on SoundCloud](https://on.soundcloud.com/wbp84)
+
+[^2]: `Aasanaa` means posture and `yOgA` means meditation, aka, being in union
+    with yourself, not the body stretches as advertized by the western yoga studios.
+
+[^3]: Here is the complete shlokam in Sanskrit along with its English meaning.
+    Translate it into your mother tongue and recite it peacefully to experience the
+    true happiness within you.
+
+    ---
+
+    Sarveeshaam swastir bhavathu
+
+    Sarveeshaam shaantir bhavathu
+
+    Sarveeshaam puurnam bhavathu
+
+    Sarveeshaam mangalam bhavathu
+
+    ---
+
+    May there be good health and well-being in everything.
+
+    May there be peacefulness in everything.
+
+    May there be completeness in everything.
+
+    May there be happiness, joy and blissfulness in everything.
+
+    ---
+
+    I highly recommend finding "your hymn/shlokam" in your mother tongue rather
+    than in a foreign language that may not resonate deeply within you. Personally,
+    I don't subscribe to the belief that words hold power when their absolute
+    meaning is unknown. Chanting in a foreign language often fails to evoke the
+    profound feeling of happiness within me. For me, the true resonance comes from
+    hymns or shlokas in Tamil or Sanskrit, languages that hold a deep cultural and
+    spiritual significance for me.
+
+    I find that chanting in Hindi/Pali or in the manner of Goenka's mournful tune
+    lacks the genuine connection I seek. As Goenka himself might say, the mental
+    volition may be strong, but the execution falls short. Ultimately, it's the
+    wholesome feelings invoked by the chant that hold greater importance than the
+    words themselves.
