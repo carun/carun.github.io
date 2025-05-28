@@ -29,12 +29,17 @@ accountable with utmost integrity. Demonstrated history of working in the inform
 
 ## Education
 
-*  Master of Science (August 2007 – January 2009), Nanyang Technological University, Singapore.
-*  Bachelor of Engineering (September 2000 – May 2004), Bharathiar University, India.
+*  Master of Science, Nanyang Technological University, Singapore.
+*  Bachelor of Engineering, Bharathiar University, India.
 
 ## Experience
 
-### Director - Software Engienering, Paravision AI, April 2022 - Present
+### Director - Software Engienering, NEC Corporation of America, June 2023 - Present
+
+* Set vision and direction for the future of all the Core technologies, Edge, Mobile and AI products
+* Execution and delivery of products across different verticals like Access Control, Law enforcement, Federal
+
+### Director - Software Engienering, Paravision AI, April 2022 - May 2023
 
 * Establish development processes
 * Create Paravision AI Platform
