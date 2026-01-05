@@ -78,7 +78,7 @@ small memory allocations and `mmap` for large memory allocations.
 
 This can be asserted with a fooboo:
 
-```
+```cpp
 #include <cstring>
 #include <vector>
 
@@ -95,7 +95,7 @@ Compule and run this with:
 g++ a.cpp -o a && strace ./a 2>&1 | tail
 ```
 And this will be observed.
-```
+```c
 ...blabla...
 brk(NULL)                               = 0x559722562000
 brk(0x559722583000)                     = 0x559722583000
@@ -113,7 +113,7 @@ tracks the number of 1 KiB pages per allocation in a signed char data type. On
 exceeding that, it uses `mmap` instead of `brk` to expand the heap region of the
 process.
 
-```
+```c
 $ g++ a.cpp -o a && strace ./a 2>&1 | tail
 
 ...blabla...
@@ -128,7 +128,7 @@ exit_group(131049)                      = ?
 When using straight malloc/calloc, the size after which `mmap` is preferred over
 `brk` is 134472 bytes (131 KiB + 328 bytes). I do not know why.
 
-```
+```cpp
 #include <cstdlib>
 #include <cstring>
 
@@ -142,7 +142,7 @@ int main() {
 ```
 
 With (131 * 1024 + 328) bytes:
-```
+```c
 $ g++ a.cpp -o a && strace ./a 2>&1 | tail
 
 ...blabla..
@@ -153,7 +153,7 @@ exit_group(0)                           = ?
 ```
 
 With (131 * 1024 + 329) bytes:
-```
+```c
 $ g++ a.cpp -o a && strace ./a 2>&1 | tail
 
 ...blabla...

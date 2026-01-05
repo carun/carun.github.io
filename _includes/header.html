@@ -1,15 +1,7 @@
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>{{ page.title }}</title>
-    <h1>Arun Chandrasekaran</h1>
-    <p>
-        <a href="{{ site.baseurl }}/">Home</a> |
-        <a href="mailto:visionofarun@gmail.com">E-mail</a> |
-        <a href="https://github.com/carun" target="_blank">GitHub</a> |
-        <a href="https://linkedin.com/in/carun" target="_blank">LinkedIn</a> |
-        <a href="/feed.xml" target="_blank">RSS</a>
-    </p>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>

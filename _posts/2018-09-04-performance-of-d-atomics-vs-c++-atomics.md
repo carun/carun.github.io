@@ -95,7 +95,8 @@ int main(int argc, char *argv[])
 
     With G++ 8.2, [Godbolt online compiler](https://godbolt.org/z/JjfTyw) showed that the assembly generated for the lambda function is
 
-```asm
+```nasm
+.text
 mov     rdx, QWORD PTR [rdi+8]
 mov     eax, 1
 lock    xadd DWORD PTR [rdx], eax
@@ -108,7 +109,7 @@ ret
 
 * Disassembly output
 
-```asm
+```nasm
 Disassembly of section .text:
 
 0000000000000000 <foo()>:
@@ -163,7 +164,7 @@ void logMe(const int tid)
 
     With LDC 1.10.0 [Godbolt online compiler](https://godbolt.org/z/JjfTyw) showed that the assembly generated for the `logMe` function is
 
-```asm
+```nasm
 void example.logMe(const(int)):
         mov     rax, qword ptr [rip + shared(int) example.msgCounter@GOTPCREL]
         mov     rcx, qword ptr [rip + shared(int) example.maxCount@GOTPCREL]
@@ -177,7 +178,7 @@ void example.logMe(const(int)):
 
 * Disassembly output
 
-```asm
+```nasm
 0000000000000000 <void app.logMe(const(int))>:
    0:   48 8b 05 00 00 00 00    mov    0x0(%rip),%rax        # 7 <void app.logMe(const(int))+0x7>
    7:   48 8b 0d 00 00 00 00    mov    0x0(%rip),%rcx        # e <void app.logMe(const(int))+0xe>
