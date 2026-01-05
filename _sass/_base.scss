@@ -20,7 +20,7 @@
     --link: #58a6ff;
     --code-bg: #161b22;
     --border: #30363d;
-    --muted: #8b949e;
+    --muted: #c9d1d9;
   }
 }
 
@@ -143,4 +143,16 @@ hr {
   border: none;
   border-top: 1px solid var(--border);
   margin: 2rem 0;
+}
+
+.post-item {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-item time {
+  color: var(--muted);
+  font-size: 0.9rem;
+  white-space: nowrap;
 }

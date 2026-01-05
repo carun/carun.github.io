@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Working with Xeon Phi
 ---
 
 Yesterday China has announced that it has the worlds fastest super computer that uses Intel Xeon Phi MIC. So I thought

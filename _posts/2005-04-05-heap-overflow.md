@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Heap overflow
 ---
 
 This article was an inspiration from [Hacking: The Art of Exploitation](https://en.wikipedia.org/wiki/Hacking:_The_Art_of_Exploitation).
@@ -112,7 +113,7 @@ WorkSucks
 # ./heap-based-of 123456789012345678901234
 userinput @ 0x80498d0: 123456789012345678901234
 outputfile @ 0x80498e8: /tmp/notes
-error opening 
+error opening
 
 # cat /tmp/notes
 antionline
@@ -302,21 +303,21 @@ virtual memory if interested).
 
 ```
 -----------------------
-| 
-| 10K page 
-| 
+|
+| 10K page
+|
 |----------------------|
-| 
-| 10K page 
-| 
+|
+| 10K page
+|
 |----------------------|
-| 
-| 10K page 
-| 
+|
+| 10K page
+|
 |----------------------|
-| 
-| 10K page 
-| 
+|
+| 10K page
+|
 ------------------------
 ```
 
@@ -325,21 +326,21 @@ space. So the OS will stick it in a page.
 
 ```
 -----------------------
-| 
-| 10K page 
-| 
+|
+| 10K page
+|
 |----------------------|
-| 
-| Process 1 
-| 
+|
+| Process 1
+|
 |----------------------|
-| 
-| 10K page 
-| 
+|
+| 10K page
+|
 |----------------------|
-| 
-| 10K page 
-| 
+|
+| 10K page
+|
 ------------------------
 ```
 
@@ -349,21 +350,21 @@ spaces. Process 2 will still operate correctly because the page table keeps trac
 
 ```
 -----------------------
-| 
-| Process 2 
-| function 1 
+|
+| Process 2
+| function 1
 |----------------------|
-| 
-| Process 1 
-| 
+|
+| Process 1
+|
 |----------------------|
-| 
-| Process 2 
-| function 2 
+|
+| Process 2
+| function 2
 |----------------------|
-| 
-| Process 2 
-| function 3 
+|
+| Process 2
+| function 3
 ------------------------
 ```
 
@@ -394,25 +395,25 @@ execution could jump to shellcode. Quick visual
 ```
 LOW MEMORY
 -----------------------
-| 
-| block header 
-| 
+|
+| block header
+|
 |----------------------|
-| 
-| 
-| 
-| buffer 
-| 
-| 
-| 
-|----------------------| 
-| 
-| block header 
-| 
------------------------- 
-| next pointer 
------------------------- 
-| previous pointer 
+|
+|
+|
+| buffer
+|
+|
+|
+|----------------------|
+|
+| block header
+|
+------------------------
+| next pointer
+------------------------
+| previous pointer
 ------------------------
 HIGH MEMORY
 ```

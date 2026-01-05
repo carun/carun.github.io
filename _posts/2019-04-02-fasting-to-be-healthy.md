@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Fast to stay healthy
 ---
 
 ## Introduction
@@ -7,7 +8,7 @@ layout: post
 Recently one of my friends was surprised to know about fasting. Even though these techniques are part of the Indian
 culture, they have long be forgotten and various other techniques have been rejected by the modern rationalists. It has
 been a trend in India after the inception of the dravidian movement to reject anything native to India and make fun of
-it. So I thought it might be worthwhile to write something on fasting for people to know. 
+it. So I thought it might be worthwhile to write something on fasting for people to know.
 
 The criteria for me to fast comes from the fact on the basic understanding on being healthy and on the aging
 process as a whole. For instance, based on my experience so far, natural ailments kick in due to the lack of

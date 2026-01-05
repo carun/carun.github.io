@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Drop Kernel Cache"
 ---
 
 In high performance computing somtimes it is common for applications to have all of the data in the physical memory to meet performance criticality. When multiple processes communicate, as we know, shared memory serves as the fastest way of IPC. Any such typical application would initialize the shared memory by loading the data from the disk into the shared memory. Now a question arises - what is the maximum data size that an application can hold in the physical memory, of course, without swapping.

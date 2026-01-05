@@ -1,5 +1,6 @@
 ---
 layout: post
+title: System CPU and glibc
 ---
 
 ## TLDR

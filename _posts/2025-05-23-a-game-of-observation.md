@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "A Game of Observation"
+title: A Game of Observation
 ---
+
+- TOC
+{:toc}
 
 I used to think people could be broadly divided into two categories:
 
@@ -86,6 +89,6 @@ Treat it like a game. Watch out for these characters:
 
 ---
 
-This is **Vipassana** , a game of pure observation. No winners, no losers, only a growing awareness, moment by moment.
+This is **Vipassana**, a game of pure observation. No winners, no losers, only a growing awareness, moment by moment.
 
 Feel fresh. Feel light. Just observe.

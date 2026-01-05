@@ -1,11 +1,12 @@
 ---
 layout: post
+title: Journey within - 10 day retreat
 ---
 
 ## Introduction
 
-Welcome, dear readers, to a journey of self-discovery and inner transformation.
-In this article, I invite you to join me as I recount my profound experience
+Welcome to a journey of self-discovery and inner transformation.
+In this article I recount my profound experience
 during a 10-day Vipassana meditation retreat under the guidance of Padma Bhushan
 S.N. Goenka. Together, we'll explore the depths of silence and introspection,
 uncovering the timeless wisdom that resides within each of us.
@@ -22,12 +23,11 @@ During my college years, however, meditation took a backseat in my life, and the
 habit eventually faded away. It wasn't until a few years ago that I reignited my
 meditation journey after attending an online course by Sadhguru Jaggi Vasudev,
 which introduced me to Kriya Yoga techniques. While I found these techniques
-beneficial, I wasn't fully aligned with Sadhguru's blending of Kriya Yoga and
-Bhakti techniques, given my upbringing in a Hindu family where I had performed
-and attended rituals with my current rational mind, I wasn't convinced by the
-Bhakti path.
+beneficial, I wasn't convinced with Sadhguru's blending of Kriya Yoga and
+Bhakti techniques. Given my upbringing in a Hindu family where I had performed
+and attended rituals, the Bhakthi path discouraged investigative inquiries (or at least the elders did so).
 
-My perspective shifted when I encountered Dr. Daniel Ingram's book, [Mastering the
+I felt like home when I encountered Dr. Daniel Ingram's book, [Mastering the
 Core Teachings of the Buddha](https://www.mctb.org/)[^1], which offered a practical approach to
 enlightenment without mysticism. Inspired, I delved into the techniques outlined
 in his book, embarking on self-retreats intermittently for several months until
@@ -262,7 +262,7 @@ Until next time, may you find peace, harmony, and boundless happiness.
 
 [^1]: [MCTB audiobook on SoundCloud](https://on.soundcloud.com/wbp84)
 
-[^2]: `Aasanaa` means posture and `yOgA` means meditation, aka, being in union
+[^2]: `Āsana` means posture and `yōga` means meditation, aka, being in union
     with yourself, not the body stretches as advertized by the western yoga studios.
 
 [^3]: Here is the complete shlokam in Sanskrit along with its English meaning.

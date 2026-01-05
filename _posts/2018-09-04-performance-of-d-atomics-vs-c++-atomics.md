@@ -1,5 +1,6 @@
 ---
 layout: post
+title: C++ atomics vs D atomics
 ---
 
 - TOC

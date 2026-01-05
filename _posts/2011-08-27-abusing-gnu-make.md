@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Abusing GNU Make
 ---
 
 At work, when I started to work on the existing projects, I found that the core libraries were committed into the
@@ -72,7 +73,7 @@ else
 	COV_LFLAGS = -lgcov
 endif
 
-DEFINES = 
+DEFINES =
 
 # Make sure CORE_LIB_PATH is available.
 CORE_LIB_FILE = "corelibs.cfg"
