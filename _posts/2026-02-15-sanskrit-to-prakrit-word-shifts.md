@@ -91,8 +91,8 @@ Sanskrit ś ṣ s -> usually **s** (sometimes h in Māgadhī-type dialects)
 | **maitrī**  | loving-kindness | **metti**  | loving-kindness |
 | **gaurava** | respect         | **garava** | respect         |
 
-ai -> e
-au -> o
+* ai -> e
+* au -> o
 
 ---
 

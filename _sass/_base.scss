@@ -134,6 +134,34 @@ blockquote {
   color: var(--muted);
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+  overflow-x: auto;
+  display: block;
+}
+
+thead {
+  border-bottom: 2px solid var(--border);
+}
+
+th {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  font-weight: bold;
+}
+
+td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
 img {
   max-width: 100%;
   height: auto;
