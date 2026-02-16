@@ -1,0 +1,45 @@
+// Syntax highlighting — GitHub-inspired, light/dark mode via CSS classes
+// Zola uses z-* classes with highlight_theme = "css"
+
+.z-code {
+  // Comments
+  .z-comment { color: #6a737d; font-style: italic; }
+
+  // Keywords
+  .z-keyword { color: #d73a49; }
+
+  // Strings
+  .z-string { color: #032f62; }
+
+  // Numbers / constants
+  .z-constant { color: #005cc5; }
+
+  // Functions / entities
+  .z-entity { color: #6f42c1; }
+
+  // Variables
+  .z-variable { color: #e36209; }
+
+  // Storage (types, modifiers)
+  .z-storage { color: #d73a49; }
+
+  // Punctuation
+  .z-punctuation { color: var(--fg); }
+
+  // Preprocessor / meta
+  .z-meta .z-keyword { color: #d73a49; }
+
+  // Invalid / error
+  .z-invalid { color: #b31d28; background: #ffeef0; }
+}
+
+[data-theme="dark"] .z-code {
+  .z-comment { color: #8b949e; }
+  .z-keyword { color: #ff7b72; }
+  .z-string { color: #a5d6ff; }
+  .z-constant { color: #79c0ff; }
+  .z-entity { color: #d2a8ff; }
+  .z-variable { color: #ffa657; }
+  .z-storage { color: #ff7b72; }
+  .z-invalid { color: #f85149; background: #3d1d20; }
+}

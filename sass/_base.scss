@@ -1,0 +1,193 @@
+@font-face {
+  font-family: 'Recursive Mono';
+  src: url('/fonts/recursive-mono.woff2') format('woff2');
+  font-display: swap;
+}
+
+:root {
+  --bg: #fff;
+  --fg: #222;
+  --link: #0066cc;
+  --code-bg: #f6f8fa;
+  --border: #e1e4e8;
+  --muted: #666;
+}
+
+[data-theme="dark"] {
+  --bg: #0d1117;
+  --fg: #c9d1d9;
+  --link: #58a6ff;
+  --code-bg: #161b22;
+  --border: #30363d;
+  --muted: #c9d1d9;
+}
+
+#theme-toggle {
+  background: none;
+  border: none;
+  color: var(--fg);
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Recursive Mono';
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--fg);
+  background: var(--bg);
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+}
+
+a {
+  color: var(--link);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+header h1 {
+  font-size: 1.5rem;
+  margin: 0 0 0.5rem;
+}
+
+header h1 a {
+  color: var(--fg);
+  text-decoration: none;
+}
+
+header nav a {
+  margin-right: 1rem;
+  font-size: 0.9rem;
+}
+
+main h1 {
+  font-size: 1.75rem;
+  margin: 0 0 0.5rem;
+}
+
+main h2 {
+  font-size: 1.4rem;
+  margin: 1.5rem 0 0.75rem;
+}
+
+main h3 {
+  font-size: 1.15rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+main p,
+main ul,
+main ol {
+  margin-bottom: 1rem;
+}
+
+main li {
+  margin-bottom: 0.25rem;
+}
+
+.date {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+pre,
+code {
+  font-family: 'Recursive Mono', ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace;
+  font-size: 0.875rem;
+}
+
+code {
+  background: var(--code-bg);
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+}
+
+pre {
+  background: var(--code-bg);
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  border: 1px solid var(--border);
+}
+
+pre code {
+  padding: 0;
+  background: none;
+  border-radius: 0;
+}
+
+blockquote {
+  border-left: 3px solid var(--border);
+  margin: 1rem 0;
+  padding-left: 1rem;
+  color: var(--muted);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+  overflow-x: auto;
+  display: block;
+}
+
+thead {
+  border-bottom: 2px solid var(--border);
+}
+
+th {
+  text-align: left;
+  padding: 0.5rem 0.75rem;
+  font-weight: bold;
+}
+
+td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+.post-item {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.post-item time {
+  color: var(--muted);
+  font-size: 0.9rem;
+  white-space: nowrap;
+}

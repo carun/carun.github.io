@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% for page in section.pages %}
+<article class="post-item">
+    <time>{{ page.date | date(format="%Y-%m-%d") }}</time>
+    <a href="{{ page.permalink }}">{{ page.title }}</a>
+</article>
+{% endfor %}
+{% endblock content %}
