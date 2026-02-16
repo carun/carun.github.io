@@ -38,12 +38,12 @@
 }
 
 body {
-  font-family: 'Recursive Mono';
+  font-family: "Ysabeau Office", sans-serif;
   font-size: 1rem;
   line-height: 1.6;
   color: var(--fg);
   background: var(--bg);
-  max-width: 48rem;
+  max-width: 64rem;
   margin: 0 auto;
   padding: 1rem 1.5rem;
 }
@@ -158,16 +158,14 @@ th {
   text-align: left;
   padding: 0.5rem 0.75rem;
   font-weight: bold;
+  border: 1px solid var(--border);
 }
 
 td {
   padding: 0.5rem 0.75rem;
-  border-bottom: 1px solid var(--border);
+  border: 1px solid var(--border);
 }
 
-tr:last-child td {
-  border-bottom: none;
-}
 
 img {
   max-width: 100%;

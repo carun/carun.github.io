@@ -9,7 +9,7 @@ Prakrit varies by region: Śaurasenī, Māgadhī, Mahārāṣṭrī — but thes
 
 # Consonant Cluster Simplification (Even Stronger than Pāḷi)
 
-## 1. r in Clusters Often Disappears
+## r in Clusters Often Disappears
 
 | Sanskrit   | Meaning       | Prakrit    | Meaning  |
 | ---------- | ------------- | ---------- | -------- |
@@ -19,14 +19,14 @@ Prakrit varies by region: Śaurasenī, Māgadhī, Mahārāṣṭrī — but thes
 
 Same pattern as Pāḷi; this is a core Middle Indo-Aryan development.
 
-## 2. kṣ -> kk / kh / kkh
+## kṣ -> kk / kh / kkh
 
 | Sanskrit   | Meaning  | Prakrit            | Meaning  |
 | ---------- | -------- | ------------------ | -------- |
 | **kṣetra** | field    | **khetta / ketta** | field    |
 | **kṣānti** | patience | **khanti**         | patience |
 
-## 3. jñ -> ññ / ṇṇ / ñ
+## jñ -> ññ / ṇṇ / ñ
 
 | Sanskrit  | Meaning   | Prakrit         | Meaning   |
 | --------- | --------- | --------------- | --------- |

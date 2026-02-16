@@ -9,7 +9,7 @@ Here is a concise map of major sound changes from Old Indo-Aryan (Sanskrit) -> M
 
 Middle Indo-Aryan strongly simplifies clusters.
 
-### 1. Stop + Stop -> Geminate
+## Stop + Stop -> Geminate
 
 | Sanskrit   | Meaning       | Pāḷi       | Meaning            |
 | ---------- | ------------- | ---------- | ------------------ |
@@ -20,7 +20,7 @@ Middle Indo-Aryan strongly simplifies clusters.
 Rule (simplified): r + consonant often disappears; cluster becomes doubled consonant.
 
 
-### 2. dhy -> jh
+## dhy -> jh
 
 | Sanskrit      | Meaning            | Pāḷi          | Meaning               |
 | ------------- | ------------------ | ------------- | --------------------- |
@@ -29,7 +29,7 @@ Rule (simplified): r + consonant often disappears; cluster becomes doubled conso
 | **upādhyāya** | preceptor, teacher | **upajjhāya** | monastic preceptor    |
 
 
-### 3. jñ -> ññ / ñā
+## jñ -> ññ / ñā
 
 | Sanskrit  | Meaning         | Pāḷi     | Meaning                            |
 | --------- | --------------- | -------- | ---------------------------------- |
@@ -37,7 +37,7 @@ Rule (simplified): r + consonant often disappears; cluster becomes doubled conso
 | **ajña**  | ignorant person | **añña** | ignorant; "other" (by development) |
 
 
-### 4. kṣ -> kkh / kh
+## kṣ -> kkh / kh
 
 | Sanskrit   | Meaning               | Pāḷi       | Meaning             |
 | ---------- | --------------------- | ---------- | ------------------- |
