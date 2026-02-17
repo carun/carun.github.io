@@ -1,6 +1,7 @@
 base_url = "https://carun.github.io"
 title = "Arun Chandrasekaran"
 description = "Arun's random stuff"
+author = "Arun Chandrasekaran"
 compile_sass = true
 generate_feeds = true
 feed_filenames = ["atom.xml"]
