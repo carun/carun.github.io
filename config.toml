@@ -9,6 +9,7 @@ feed_filenames = ["atom.xml"]
 [markdown]
 highlight_code = true
 highlight_theme = "css"
+bottom_footnotes = true
 
 [slugify]
 paths = "safe"

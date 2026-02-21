@@ -178,6 +178,51 @@ hr {
   margin: 2rem 0;
 }
 
+.footnote-definition {
+  display: flex;
+  gap: 0.25rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+
+  p {
+    display: inline;
+    margin: 0;
+  }
+}
+
+.footnotes-list li p {
+  display: inline;
+}
+
+sup.footnote-reference {
+  position: relative;
+
+  &[data-footnote]:hover::after {
+    content: attr(data-footnote);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--fg);
+    color: var(--bg);
+    padding: 0.4em 0.7em;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    white-space: normal;
+    width: max-content;
+    max-width: 300px;
+    z-index: 10;
+    pointer-events: none;
+    animation: footnote-fade 0.15s ease-in;
+  }
+}
+
+@keyframes footnote-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
 .post-item {
   display: flex;
   gap: 1rem;

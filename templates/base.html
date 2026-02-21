@@ -33,5 +33,16 @@
     <main>
         {% block content %}{% endblock content %}
     </main>
+<script>
+document.querySelectorAll("sup.footnote-reference").forEach(function(sup) {
+    var link = sup.querySelector("a[href^='#fn-']");
+    if (!link) return;
+    var fnLi = document.getElementById(link.getAttribute("href").slice(1));
+    if (!fnLi) return;
+    var clone = fnLi.cloneNode(true);
+    clone.querySelectorAll("a[href^='#fr-']").forEach(function(a) { a.remove(); });
+    sup.setAttribute("data-footnote", clone.textContent.replace(/\s+/g, " ").trim());
+});
+</script>
 </body>
 </html>
