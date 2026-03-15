@@ -87,7 +87,7 @@ U Pandita warns that Western interpretations often "water down" mindfulness, tur
 
 Such a mindfulness strengthens self-awareness and helps break habitual thought patterns, making it a valuable tool in managing anxiety, depression, and addiction. Where the reward system creates "wanting" that overrides rational intention, active mindfulness trains the capacity to observe that wanting without being consumed by it — restoring the space between stimulus and response where purpose can reassert itself.
 
-This is ultimately why process matters as much as purpose. Having the right intention is not enough if the mind's own feedback loops can hijack it. Mindfulness — the real kind, not the watered down variety — is the process that keeps purpose honest and the people around us closer.
+This is ultimately why process matters as much as purpose. Having the right intention is not enough if the mind's own feedback loops can hijack it. Mindfulness - the real kind, not the watered down variety - is the process that keeps purpose honest and the people around us closer. After all, happiness is not in the desination. It is in the journey itself!
 
 [^1]: Purpose originates from the Middle English _purpos_ ("intention, aim, goal"), via Anglo-French from Old French _porposer_ ("to put forth") — _por-_ (Latin _pro-_, "forth") + _poser_ ("to put, place"). It corresponds to the Latin _propositum_, "a thing proposed or intended". The word entered English around the 1300s; the phrase _on purpose_ ("by design") dates to the 1580s.
 
