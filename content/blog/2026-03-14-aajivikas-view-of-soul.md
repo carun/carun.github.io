@@ -1,11 +1,11 @@
 +++
-title = "Ājivika view of the self"
+title = "Ājīvika view of the self"
 date = 2026-03-14
 +++
 
-The Ājivika view of the self is complex, often misunderstood, and differs significantly from the Buddhist concept of non-self (anātman). While Buddhism teaches that there is no permanent self or soul, the Ājīvikas, a fatalistic and largely materialistic school of ancient India, believed that a soul (ātman) exists but is ultimately subject to, and defined by, absolute cosmic determinism (niyati).
+The Ājīvika view of the self is complex, often misunderstood, and differs significantly from the Buddhist concept of non-self (anātman). While Buddhism teaches that there is no permanent self or soul, the Ājīvikas, a fatalistic and largely materialistic school of ancient India, believed that a soul (ātman) exists but is ultimately subject to, and defined by, absolute cosmic determinism (niyati).
 
-Key Aspects of the Ājīvika View of the Self:
+Key Aspects of the Ājīvika View of the Self
 
 * **Atman as a Material Entity**: Unlike the formless, transcendental self in Jain/many Hindu schools, the Ājīvikas viewed the soul as having a material form, which they believed assisted in meditation.
 * **Determinism Over Self-Agency (Niyati)**: The defining characteristic of Ājīvikam is niyati (fate/rule, called ஊ ழ் /ūl̥ in Tamil), the belief that all events, actions, and the destiny of every soul are predetermined. The "self" is not a free agent that can create its own fate through karma, but rather a being whose trajectory is preordained by cosmic, inescapable law.
