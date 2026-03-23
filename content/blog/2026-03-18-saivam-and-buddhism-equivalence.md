@@ -1,18 +1,20 @@
 +++
-title = "Comparing Śaivam & Buddhism - 1"
+title = "Similarities between Shaivism & Buddhism - 1"
 date = 2026-03-18
 +++
 
-This is part 1 of a series of articles where I'll compare Śaivam and Buddhism to show each system explains the reality that we perceive. In this part, I'll compare the tattvas in Śaivam with Buddhism.
+This is part 1 of a series of articles where I'll compare Śaivam and Buddhism to show each system explains the reality that we perceive.
 
-A tattva is a fundamental ontological principle that represents a specific functional state of consciousness in its progression from pure yogam/unity (Śivam) to apparent multiplicity (world).
+> The comparison is to bring out the similarities in them than their "frictional" differences which is what usually excites the "masses" as it highlights conflicting ideas to argue about. I will genuinely stay away from that.
+
+In this part, I'll compare the tattvas in Śaivam with Buddhism. A tattva is a fundamental ontological principle that represents a specific functional state of consciousness in its progression from pure yogam/unity (Śivam) to apparent multiplicity (world).
 
 The word tattva (तत्त्व / tattva) has its origin in Sanskrit and it has a very precise and layered meaning. The simplest literal breakdown is:
 
 * tat = "that" (ultimate reality)
 * tva = "-ness" (state, quality)
 
-So tattva = "that-ness", or the essential principle of something. A fundamental level or mode in which reality (Śivam) exists, manifests, and is experienced.
+So tattva = "that-ness", or the essential principle of something. A fundamental state/mode/level in which reality (Śivam) exists, manifests, and is experienced.
 
 A definition from [Chandogya Upanishad 6.8.7](https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239302.html) where Tat Tvam Asi (तत् त्वम् असि) literally translated as 'That Thou Art' ('That is you' or 'You are that') where they claim the "self" is the constant reality and everything else surrounding that arises and changes.
 
