@@ -11,6 +11,8 @@ The central shift is simple. Instead of asking what exists, where karma is store
 
 There is no container for karma. There is only dependent continuity of transformation.
 
+The central claim is that the Buddhist account of the mental stream and the path of liberation can be faithfully represented as a discrete-time, partially observable, non-stationary, self-modifying stochastic dynamical system operating on a stratified state space.
+
 ---
 
 ## 1. The Stream as a Dynamical System
