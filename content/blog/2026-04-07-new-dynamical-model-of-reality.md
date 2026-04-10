@@ -7,19 +7,15 @@ Here I present a novel model of Buddhist theory on mind and reality using the la
 
 The goal of this article is not to force a scientific equivalence, but to build an intuitive bridge for those familiar with systems theory, machine learning, and nonlinear dynamics with the core teachings of the Buddha.
 
-The central shift is simple. Instead of asking what exists, where karma is stored, how it is tranferred between rebirths, we ask how *processes* evolve over time.
+The central shift is simple. Instead of asking what exists, where karma is stored, how it is tranferred between rebirths, we ask how *processes* evolve over time. There is no container for karma. There is only dependent continuity of transformation.
 
-There is no container for karma. There is only dependent continuity of transformation.
-
-The central claim is that the Buddhist account of the mental stream and the path of liberation can be faithfully represented as a discrete-time, partially observable, non-stationary, self-modifying stochastic dynamical system operating on a stratified state space.
+The Buddhist account of the mental stream and the path of liberation can be faithfully represented as a discrete-time, partially observable, non-stationary, self-modifying stochastic dynamical system operating on a stratified state space.
 
 ---
 
 ## 1. The Stream as a Dynamical System
 
-Before going further, it helps to ground the idea of a dynamical system with simple examples.
-
-A dynamical system is anything that evolves over time according to rules.
+Before going further, it helps to ground the idea of a dynamical system with simple examples. A dynamical system is anything that evolves over time according to rules.
 
 Examples:
 
@@ -46,9 +42,7 @@ Where:
 
 Some systems are simple and predictable. Others are chaotic and sensitive to small changes.
 
-It is thus very natural to think of the mind, in this model, as a very high dimensional dynamical system.
-
-What is traditionally called the stream of consciousness can be modeled as a state evolving over time:
+It is thus very natural to think of the mind, in this model, as a very high dimensional dynamical system. What is traditionally called the stream of consciousness can be modeled as a state evolving over time:
 
 ```
 S(t+1) = F(S(t), conditions)
@@ -66,9 +60,7 @@ This is similar to a Markov process, but with an important nuance. The system be
 
 ## 2. Karma as State Conditioning
 
-Karma is not a substance. It is not stored in the body or in a metaphysical container.
-
-Karma is the way past transitions shape the current transition function.
+Karma is not a substance. It is not stored in the body or in a metaphysical container. Karma is the way past transitions shape the current transition function.
 
 In practical terms:
 
@@ -76,9 +68,7 @@ In practical terms:
 * Repetition strengthens certain transitions
 * Tendencies emerge as biases in evolution
 
-Latent karma is simply the set of dispositions embedded in the current state.
-
-There is no queue of actions waiting to execute. There is only a field of potential responses, with some more likely than others depending on conditions.
+Latent karma is simply the set of dispositions embedded in the current state. There is no queue of actions waiting to execute. There is only a field of potential responses, with some more likely than others depending on conditions.
 
 ---
 
@@ -94,9 +84,7 @@ Small changes can lead to large downstream effects. A minor intention can reshap
 
 ### Conditional Activation
 
-Not all tendencies manifest. Which one activates depends on present conditions.
-
-This leads to a hybrid model:
+Not all tendencies manifest. Which one activates depends on present conditions. This leads to a hybrid model:
 
 * Nonlinear dynamics govern evolution
 * Probabilistic activation determines which tendencies arise
@@ -113,30 +101,13 @@ Mental habits behave like attractor basins.
 * Desire is an attractor
 * Calm is an attractor
 
-The system tends to fall into these basins when conditions align.
-
-Practice reshapes this landscape:
-
-* Weakening certain attractors
-* Strengthening others
-
-Over time, the default trajectory of the system changes.
+The system tends to fall into these basins when conditions align. Practice reshapes this landscape by weakening certain attractors and strengthening others. Over time, the default trajectory of the system changes.
 
 ---
 
 ## 5. Jhāna as Attractor Stabilization
 
-Jhāna can be understood as highly stable attractor states.
-
-Before stabilization:
-
-* The system is noisy
-* It jumps between multiple basins
-
-In jhāna:
-
-* The system locks into a single basin
-* Perturbations have minimal effect
+Jhāna can be understood as highly stable attractor states. The system is noisy before stabilization and it jumps between multiple basins. In jhāna the system locks into a single basin and perturbations have minimal effect.
 
 Each factor of jhāna plays a role in stabilizing the system:
 
@@ -152,25 +123,19 @@ As one progresses through deeper stages, fewer factors are required. The system 
 
 ## 6. Vipassanā as Attractor Dissolution
 
-Insight practice does not create a better attractor. It undermines the entire structure.
-
-Through direct observation, three characteristics become clear:
+Insight practice does not create a better attractor. It undermines the entire structure. Through direct observation, three characteristics become clear:
 
 * All states are unstable
 * No state is ultimately satisfying
 * No state belongs to a self
 
-This leads to a collapse in attractor strength.
-
-The system stops committing to basins. Transitions become fluid. Patterns lose their grip.
+This leads to a collapse in attractor strength. The system stops committing to basins. Transitions become fluid. Patterns lose their grip.
 
 ---
 
 ## 7. Fetters as Constraints on State Space
 
-The ten fetters can be modeled as constraints on the accessible state space.
-
-They do not just bias behavior. They limit what is even possible.
+The ten fetters can be modeled as constraints on the accessible state space. They do not just bias behavior. They limit what is even possible.
 
 Examples:
 
@@ -178,9 +143,7 @@ Examples:
 * Sensual desire reinforces low level attractors
 * Ignorance distorts the entire landscape
 
-Removing fetters expands accessible states.
-
-At early awakening, some constraints are lifted. At full liberation, all constraints are gone.
+Removing fetters expands accessible states. At early awakening, some constraints are lifted. At full liberation, all constraints are gone.
 
 ---
 
@@ -205,17 +168,13 @@ This is not a linear chain. It is a loop that continuously updates the system.
 
 ## 9. Death and Reinitialization
 
-Death is not termination of the process. It is a boundary condition.
-
-The system does not reset to zero. It transitions:
+Death is not termination of the process. It is a boundary condition. The system does not reset to zero. It transitions:
 
 ```
 S_last -> S_0_new
 ```
 
-The new configuration depends on dominant tendencies at the boundary.
-
-Other latent tendencies remain embedded in the structure and can manifest later.
+The new configuration depends on dominant tendencies at the boundary. Other latent tendencies remain embedded in the structure and can manifest later.
 
 ---
 
@@ -229,17 +188,13 @@ With full insight:
 * Craving no longer drives movement
 * Clinging no longer locks states
 
-The system still evolves during life, but it no longer produces future propagation beyond the final boundary.
-
-There is continuity without continuation.
+The system still evolves during life, but it no longer produces future propagation beyond the final boundary. There is continuity without continuation.
 
 ---
 
 ## 11. Vēdanā to Taṇhā as Reward Learning
 
-We can push the model further using reinforcement learning intuition.
-
-At each moment, the system receives an evaluative signal:
+We can push the model further using reinforcement learning intuition. At each moment, the system receives an evaluative signal:
 
 * Vēdanā functions like a reward signal
 
@@ -258,10 +213,7 @@ This is structurally similar to a reward update rule:
 Policy_{t+1} = Policy_t + learning_rate * reward_signal
 ```
 
-Where:
-
-* Policy corresponds to habitual responses
-* Reward signal corresponds to vēdanā
+Where policy corresponds to habitual responses and reward signal corresponds to vēdanā.
 
 Taṇhā arises as:
 
@@ -278,9 +230,7 @@ Clinging then acts as policy hardening. It reduces flexibility and locks the sys
 
 ## 12. Gradient Dynamics of Taṇhā
 
-We can sharpen the reinforcement learning analogy further.
-
-Taṇhā behaves like a gradient operator acting on the state space.
+We can sharpen the reinforcement learning analogy further. Taṇhā behaves like a gradient operator acting on the state space.
 
 * Pleasant vēdanā induces gradient ascent
 * Unpleasant vēdanā induces gradient descent
@@ -293,45 +243,20 @@ S(t+1) = S(t) + alpha * grad(reward)
 
 Where:
 
-* alpha is a learning rate
-* grad(reward) is inferred from vēdanā
+* `alpha` is a learning rate
+* `grad(reward)` is inferred from vēdanā
 
-This creates directional movement in the state space:
+This creates directional movement in the state space attraction toward pleasant configurations and repulsion from unpleasant configurations.
 
-* attraction toward pleasant configurations
-* repulsion from unpleasant configurations
-
-Clinging makes this worse by:
-
-* increasing alpha
-* reducing exploration
-
-So the system becomes:
-
-* more rigid
-* more trapped in local patterns
+Clinging makes this worse by increasing alpha and reducing exploration. So the system becomes more rigid and more trapped in local patterns.
 
 ---
 
 ## 13. Zero-Objective Dynamics
 
-What happens if the reward signal is no longer used?
+What happens if the reward signal is no longer used? This is a key to understanding liberation.
 
-This is the key to understanding liberation.
-
-In ordinary systems:
-
-* behavior is driven by reward maximization
-
-In the liberated system:
-
-* vēdanā still arises
-* but it is not converted into taṇhā
-
-So:
-
-* no gradient is formed
-* no optimization step occurs
+In ordinary systems behavior is driven by reward maximization. In the liberated system vēdanā still arises but it is not converted into taṇhā. So no gradient is formed and no optimization step occurs
 
 The system still evolves:
 
@@ -339,10 +264,7 @@ The system still evolves:
 S(t+1) = F(S(t), conditions)
 ```
 
-But without:
-
-* reward chasing
-* penalty avoidance
+But without reward chasing and penalty avoidance.
 
 ---
 
@@ -364,11 +286,7 @@ With insight:
 * unpleasant states are seen as unavoidable
 * identity is seen as constructed
 
-This breaks the validity of the objective itself.
-
-So instead of improving the optimizer, something deeper happens:
-
-> the optimization objective is dropped
+This breaks the validity of the objective itself. So instead of improving the optimizer, something might be happening deeper: the optimization objective is dropped.
 
 In system terms:
 
@@ -376,12 +294,7 @@ In system terms:
 * No penalty avoidance
 * No policy reinforcement
 
-The system continues to function, but:
-
-* actions occur without accumulation of new bias
-* states arise and pass without being optimized for
-
-This is not passivity. It is the absence of compulsive optimization.
+The system continues to function, but the actions occur without accumulation of new bias and the states arise and pass without being optimized for. This is not passivity. It is the absence of compulsive optimization.
 
 ---
 
@@ -401,9 +314,7 @@ Practice works in two directions:
 * Jhāna stabilizes the system
 * Vipassanā removes the basis for optimization
 
-Liberation is not reaching a better state.
-
-It is the end of being driven to optimize states at all.
+Liberation is not reaching a better state. It is the end of being driven to optimize states at all.
 
 ---
 
