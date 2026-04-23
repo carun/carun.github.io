@@ -3,7 +3,7 @@ title = "A Game of Observation"
 date = 2025-05-23
 +++
 
-I used to think people could be broadly divided into two categories:
+People could be broadly divided into two categories:
 
 * **Thinkers**
 * **Doers**
@@ -14,7 +14,7 @@ Today, I want to introduce a third category, one that's often known, yet rarely 
 
 This is a category of people who simply observe what's happening, without judgment, without craving or aversion. They witness phenomena arise and pass away, like a mirror reflecting everything yet clinging to nothing. Observers live in awareness of the moment, noticing experiences as they unfold, not interfering, not reacting.
 
-This is the core of **Vipassana** meditation, a technique of mindful observation.
+This is the core of **Vipassanā** meditation, a technique of mindful observation.
 
 
 ## The Observation Algorithm
@@ -31,16 +31,16 @@ Here's how this game of observation works:
 
 3. **Other objects will arise, thoughts, sensations, sounds. Label them, then return to the primary object.**
    Here are some common intrusions:
-    - A song pops into your mind ,  label it **thinking**.
-    - An itch arises ,  label it **feeling**.
-    - Back pain ,  label it **feeling**.
-    - Planning tomorrow's tasks ,  label it **planning**.
-    - A plane flies overhead ,  label it **hearing**.
+    - A song pops into your mind, label it **thinking**.
+    - An itch arises, label it **feeling**.
+    - Back pain, label it **feeling**.
+    - Planning tomorrow's tasks, label it **planning**.
+    - A plane flies overhead, label it **hearing**.
     - If you forget to label and get lost in a stream of thoughts, once you realize it, label it **wandering**.
 
     This is why we choose a physical body sensation (like the abdomen) as the anchor, it's non-anticipatory, effortless, and always present.
 
-4. **Label objects from all six sense doors, sight, sound, smell, taste, touch, and thought. Then gently return to the rising and falling.**
+4. **Label objects from all six sense doors:** sight, sound, smell, taste, touch, and thoughts. Then gently return to the rising and falling of the abdomen.
 
 5. **Remain still. Don't move a muscle.**
    This might be difficult at first, but stillness is vital. When the body moves, the mind moves. Stillness sharpens attention.
@@ -48,7 +48,7 @@ Here's how this game of observation works:
 
 ## Dealing with Pain
 
-If physical pain arises (e.g., knee pain, back pain), observe it without judgment, don't label it as good or bad. Watch it like any other object. Most pains subside in 10-15 minutes.
+If physical pain arises (e.g., knee pain, back pain), observe it without judgment, don't judge it as good or bad. Watch it like any other object. Most pains subside in 10-15 minutes.
 
 If the pain becomes overwhelming or poses a risk of injury (due to pre-existing conditions, for example), change your posture mindfully. Maintain your awareness during the shift, make sure the pain doesn't dominate your attention. Otherwise, remain still and observe.
 
@@ -81,6 +81,6 @@ Treat it like a game. Watch out for these characters:
   Anything arising from the six sense bases. Label them, and return to the breath. That's all the attention they deserve.
 
 
-This is **Vipassana**, a game of pure observation. No winners, no losers, only a growing awareness, moment by moment.
+This is **Vipassanā**, a game of pure observation. No winners, no losers, only a growing awareness, moment by moment.
 
 Feel fresh. Feel light. Just observe.
