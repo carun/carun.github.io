@@ -5,6 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ config.description }}">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+
+    {% if page %}
+        {% set og_title = page.title %}
+        {% set og_desc = page.description | default(value=config.description) %}
+        {% set og_url = page.permalink %}
+        {% set og_type = "article" %}
+    {% elif section %}
+        {% set og_title = section.title | default(value=config.title) %}
+        {% set og_desc = section.description | default(value=config.description) %}
+        {% set og_url = section.permalink %}
+        {% set og_type = "website" %}
+    {% else %}
+        {% set og_title = config.title %}
+        {% set og_desc = config.description %}
+        {% set og_url = config.base_url %}
+        {% set og_type = "website" %}
+    {% endif %}
+    {% set og_image = get_url(path="images/me.jpg") %}
+
+    <meta property="og:title" content="{{ og_title }}">
+    <meta property="og:description" content="{{ og_desc }}">
+    <meta property="og:url" content="{{ og_url }}">
+    <meta property="og:type" content="{{ og_type }}">
+    <meta property="og:image" content="{{ og_image }}">
+    <meta property="og:image:width" content="400">
+    <meta property="og:image:height" content="400">
+    <meta property="og:site_name" content="{{ config.title }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ og_title }}">
+    <meta name="twitter:description" content="{{ og_desc }}">
+    <meta name="twitter:image" content="{{ og_image }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ysabeau+Office:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
