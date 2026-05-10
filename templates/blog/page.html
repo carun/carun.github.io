@@ -8,4 +8,7 @@
     <p class="date">{{ page.date | date(format="%B %-d, %Y") }}</p>
 </div>
 <div class="row">{{ page.content | safe }}</div>
+<footer class="post-footer">
+    {% include "_nav.html" %}
+</footer>
 {% endblock content %}

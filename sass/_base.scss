@@ -11,6 +11,7 @@
   --code-bg: #f6f8fa;
   --border: #e1e4e8;
   --muted: #666;
+  --muted-strong: #3a3a3a;
 }
 
 [data-theme="dark"] {
@@ -20,6 +21,7 @@
   --code-bg: #161b22;
   --border: #30363d;
   --muted: #c9d1d9;
+  --muted-strong: #c9d1d9;
 }
 
 #theme-toggle {
@@ -72,7 +74,8 @@ header h1 a {
   text-decoration: none;
 }
 
-header nav a {
+header nav a,
+.post-footer nav a {
   margin-right: 1rem;
   font-size: 0.9rem;
 }
@@ -219,8 +222,13 @@ sup.footnote-reference {
 }
 
 @keyframes footnote-fade {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
 
 .post-item {
@@ -233,4 +241,10 @@ sup.footnote-reference {
   color: var(--muted);
   font-size: 0.9rem;
   white-space: nowrap;
+}
+
+.post-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
 }
