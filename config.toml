@@ -10,6 +10,7 @@ feed_filenames = ["atom.xml"]
 highlight_code = true
 highlight_theme = "css"
 bottom_footnotes = true
+external_links_target_blank = true
 
 [slugify]
 paths = "safe"
