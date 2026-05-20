@@ -67,7 +67,7 @@ These are shared **Śramaṇa** positions that set them apart from mainstream Ve
 | Principle | Vedic Sects | Jainism | Ājīvikam | Buddhism | Cārvāka |
 |---|---|---|---|---|---|
 | Saṃsāra / Rebirth | ✅ | ✅ | ✅ (6) | ✅ |  ❌ |
-| Karma | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Karma (Mental volition) | ✅ | ✅ | ❌ | ✅ | ❌ |
 | Mokṣa/Nirvāṇa as supreme goal | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Saṃsāra is duḥkha/bondage | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Ahiṃsā | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -77,8 +77,8 @@ These are shared **Śramaṇa** positions that set them apart from mainstream Ve
 | Varṇa as spiritually relevant | ✅ | ❌ | ❌ | ❌ | ❌ |
 | Cyclical vast time (Kalpa/Yuga) | ✅ | ✅ |  ❌ | ✅ | ❌ |
 | Guru/Ācārya essential | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Avidyā/Moha = root of bondage | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Aparigraha | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Avidyā/Moha (Illusion)= root of bondage | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Aparigraha (Detachment) | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Brahmacarya (for monastics) | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Encourage sensual pleasure | ❌ | ❌ | ❌ | ❌ | ✅ |
 
@@ -86,7 +86,7 @@ These are shared **Śramaṇa** positions that set them apart from mainstream Ve
 
 The deepest insight here is that the **Śramaṇa-Āstika divide is primarily about authority and metaphysics** (Vēda-prāmāṇya, Ātman, Īśvara), while the **ethical and soteriological core** - karma, saṃsāra, ahiṃsā, the value of inner transformation, the inadequacy of worldly life (saṃsāra-duḥkha) - is shared across all of them. They were arguing about *the same fundamental human questions*, just with different answers based on inferences.
 
-Along these lines, Cārvāka - the sect that denounced immorality and propelled materialism, went extinct only to revive itself in the modern world as **crude extreme-left and ultra-rich capitalists void of morality**.
+Along these lines, Cārvāka - the sect that denounced immorality and propelled materialism, went extinct only to revive itself in the modern world as **crude extreme-left or extreme-right or ultra-rich or purposeless people void of morality**.
 
 In addition to their inherent complexity, the difficulty of understanding these concepts from thousands of years ago in concrete, structured, mathematical terms may stem from several factors:
 
