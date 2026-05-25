@@ -137,6 +137,79 @@ pre code {
   border-radius: 0;
 }
 
+.mermaid {
+  margin: 1.5rem 0;
+  text-align: center;
+  overflow-x: auto;
+  position: relative;
+}
+
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+  cursor: zoom-in;
+}
+
+.mermaid-zoom-hint {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+  background: var(--code-bg);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+.mermaid-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: grab;
+  overflow: hidden;
+}
+
+.mermaid-modal.dragging { cursor: grabbing; }
+
+.mermaid-modal svg {
+  max-width: none;
+  max-height: none;
+  transform-origin: center center;
+  transition: transform 0.05s linear;
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.mermaid-modal-controls {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  gap: 0.5rem;
+  z-index: 1001;
+}
+
+.mermaid-modal-controls button {
+  background: white;
+  color: black;
+  border: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 1.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.mermaid-modal-controls button:hover { background: #ddd; }
+
 blockquote {
   border-left: 3px solid var(--border);
   margin: 1rem 0;
