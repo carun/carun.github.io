@@ -105,6 +105,22 @@
                 });
             }
 
+            function saveSvg(svg) {
+                const clone = svg.cloneNode(true);
+                if (!clone.getAttribute("xmlns")) clone.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+                if (!clone.getAttribute("xmlns:xlink")) clone.setAttribute("xmlns:xlink", "http://www.w3.org/1999/xlink");
+                const xml = '<?xml version="1.0" encoding="UTF-8"?>\n' + new XMLSerializer().serializeToString(clone);
+                const blob = new Blob([xml], { type: "image/svg+xml;charset=utf-8" });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = (document.title.replace(/[^a-z0-9]+/gi, "-").toLowerCase() || "diagram") + ".svg";
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+                setTimeout(() => URL.revokeObjectURL(url), 1000);
+            }
+
             function openMermaidModal(svg) {
                 if (!svg) return;
                 const modal = document.createElement("div");
@@ -115,7 +131,7 @@
 
                 const controls = document.createElement("div");
                 controls.className = "mermaid-modal-controls";
-                controls.innerHTML = '<button data-act="in" title="Zoom in">+</button><button data-act="out" title="Zoom out">−</button><button data-act="reset" title="Reset">⤾</button><button data-act="close" title="Close">×</button>';
+                controls.innerHTML = '<button data-act="in" title="Zoom in">+</button><button data-act="out" title="Zoom out">−</button><button data-act="reset" title="Reset">⤾</button><button data-act="save" title="Save SVG">⤓</button><button data-act="close" title="Close">×</button>';
                 modal.appendChild(controls);
                 document.body.appendChild(modal);
 
@@ -130,6 +146,7 @@
                     if (act === "in") scale *= 1.25;
                     else if (act === "out") scale /= 1.25;
                     else if (act === "reset") { scale = 1; tx = 0; ty = 0; }
+                    else if (act === "save") return saveSvg(svg);
                     else if (act === "close") return close();
                     apply();
                 });
