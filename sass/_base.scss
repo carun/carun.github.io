@@ -29,7 +29,7 @@
   border: none;
   color: var(--fg);
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 1.25rem;
   padding: 0;
 }
 
@@ -41,11 +41,11 @@
 
 body {
   font-family: "Ysabeau Office", sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: 1.6;
   color: var(--fg);
   background: var(--bg);
-  max-width: 64rem;
+  max-width: 96rem;
   margin: 0 auto;
   padding: 1rem 1.5rem;
 }
@@ -65,7 +65,7 @@ header {
 }
 
 header h1 {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   margin: 0 0 0.5rem;
 }
 
@@ -77,21 +77,21 @@ header h1 a {
 header nav a,
 .post-footer nav a {
   margin-right: 1rem;
-  font-size: 0.9rem;
+  font-size: 1.25rem;
 }
 
 main h1 {
-  font-size: 1.75rem;
+  font-size: 2.15rem;
   margin: 0 0 0.5rem;
 }
 
 main h2 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   margin: 1.5rem 0 0.75rem;
 }
 
 main h3 {
-  font-size: 1.15rem;
+  font-size: 1.6rem;
   margin: 1.25rem 0 0.5rem;
 }
 
@@ -107,13 +107,13 @@ main li {
 
 .date {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 1.25rem;
 }
 
 pre,
 code {
   font-family: 'Recursive Mono', ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace;
-  font-size: 0.875rem;
+  font-size: 1.25rem;
 }
 
 code {
@@ -175,7 +175,9 @@ pre code {
   overflow: hidden;
 }
 
-.mermaid-modal.dragging { cursor: grabbing; }
+.mermaid-modal.dragging {
+  cursor: grabbing;
+}
 
 .mermaid-modal svg {
   max-width: none;
@@ -208,7 +210,9 @@ pre code {
   font-family: inherit;
 }
 
-.mermaid-modal-controls button:hover { background: #ddd; }
+.mermaid-modal-controls button:hover {
+  background: #ddd;
+}
 
 blockquote {
   border-left: 3px solid var(--border);
@@ -221,7 +225,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 1rem;
-  font-size: 0.875rem;
+  font-size: 1.25rem;
   overflow-x: auto;
   display: block;
 }
@@ -258,7 +262,7 @@ hr {
   display: flex;
   gap: 0.25rem;
   margin-bottom: 0.5rem;
-  font-size: 0.875rem;
+  font-size: 1.25rem;
 
   p {
     display: inline;
@@ -312,7 +316,7 @@ sup.footnote-reference {
 
 .post-item time {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 1.25rem;
   white-space: nowrap;
 }
 
