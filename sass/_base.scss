@@ -326,6 +326,35 @@ sup.footnote-reference {
   border-top: 1px solid var(--border);
 }
 
+.post-toc {
+  margin: 1.5rem 0 2rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--code-bg);
+  font-size: 1.3rem;
+
+  summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: var(--muted-strong);
+  }
+
+  ol {
+    margin: 0.5rem 0 0;
+    padding-left: 1.5rem;
+  }
+
+  li {
+    margin-bottom: 0.15rem;
+  }
+
+  ol ol {
+    margin-top: 0.15rem;
+    font-size: 0.95em;
+  }
+}
+
 .post-pager {
   display: flex;
   justify-content: space-between;

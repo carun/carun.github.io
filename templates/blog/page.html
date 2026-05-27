@@ -7,6 +7,22 @@
     <h2>{{ page.title }}</h2>
     <p class="date">{{ page.date | date(format="%B %-d, %Y") }}</p>
 </div>
+{% if page.toc | length >= 3 %}
+<details class="post-toc">
+    <summary>Contents</summary>
+    <ol>
+        {% for h in page.toc %}
+        <li><a href="#{{ h.id }}">{{ h.title }}</a>
+            {% if h.children %}
+            <ol>
+                {% for c in h.children %}<li><a href="#{{ c.id }}">{{ c.title }}</a></li>{% endfor %}
+            </ol>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ol>
+</details>
+{% endif %}
 <div class="row">{{ page.content | safe }}</div>
 {% if page.lower or page.higher %}
 <nav class="post-pager">
