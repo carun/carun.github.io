@@ -325,3 +325,22 @@ sup.footnote-reference {
   padding-top: 1.5rem;
   border-top: 1px solid var(--border);
 }
+
+.post-pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 1.25rem;
+}
+
+.post-pager-older {
+  text-align: left;
+}
+
+.post-pager-newer {
+  text-align: right;
+  margin-left: auto;
+}
