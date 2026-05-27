@@ -3,7 +3,7 @@ title = "Familiarity Fallacy"
 date = 2026-05-18
 +++
 
-While writing about [fandom psychology](/blog/fandom-psychology/), I kept bumping into the same pattern, and it deserves its own post. We mix up *familiarity* with *understanding* all the time, and it goes both ways: sometimes we give a thing more credit than it deserves, sometimes less.
+While writing about [fandom psychology](/essays/fandom-psychology/), I kept bumping into the same pattern, and it deserves its own post. We mix up *familiarity* with *understanding* all the time, and it goes both ways: sometimes we give a thing more credit than it deserves, sometimes less.
 
 Ask someone about an idea they heard about yesterday, and you'll usually get an honest "I don't really know yet, I need to look into it more." Ask them a few weeks later, after they've been around it but haven't actually studied it, and the tone shifts: "Oh yeah, that thing, it's just how this works." Nothing has actually been figured out in between. They've just gotten used to it. That swap, where being familiar quietly stands in for actually understanding, is the fallacy.
 

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | Notes | {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div class="row">
+    <h2>{{ page.title }}</h2>
+    <p class="date">{{ page.date | date(format="%B %-d, %Y at %-I:%M %p %Z", timezone="America/Los_Angeles") }}</p>
+</div>
+<div class="row">{{ page.content | safe }}</div>
+{% if page.lower or page.higher %}
+<nav class="post-pager">
+    <span class="post-pager-older">
+        {% if page.higher %}<a href="{{ page.higher.permalink }}" rel="prev">&larr; Older: {{ page.higher.title }}</a>{% endif %}
+    </span>
+    <span class="post-pager-newer">
+        {% if page.lower %}<a href="{{ page.lower.permalink }}" rel="next">Newer: {{ page.lower.title }} &rarr;</a>{% endif %}
+    </span>
+</nav>
+{% endif %}
+<footer class="post-footer">
+    {% include "_nav.html" %}
+</footer>
+{% endblock content %}

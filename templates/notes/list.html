@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% for page in section.pages %}
+<article class="note-item" id="{{ page.slug }}">
+    <h3 class="note-title">
+        <time>{{ page.date | date(format="%Y-%m-%d") }}</time>
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+        <a href="{{ page.permalink }}" class="note-permalink" title="Permalink">#</a>
+    </h3>
+    <div class="note-body">{{ page.content | safe }}</div>
+</article>
+{% endfor %}
+{% endblock content %}

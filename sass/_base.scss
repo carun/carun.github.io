@@ -320,6 +320,56 @@ sup.footnote-reference {
   white-space: nowrap;
 }
 
+.note-item {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.note-item:last-child {
+  border-bottom: none;
+}
+
+.note-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 0.25rem 0 0.5rem;
+  font-size: 1.6rem;
+}
+
+.note-title time {
+  color: var(--muted);
+  font-size: 1.25rem;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+.note-permalink {
+  color: var(--muted);
+  text-decoration: none;
+  opacity: 0.6;
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+.note-permalink:hover {
+  opacity: 1;
+}
+
+.note-title a {
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.note-title a:hover {
+  text-decoration: underline;
+}
+
+.note-body p:last-child {
+  margin-bottom: 0;
+}
+
 .post-footer {
   margin-top: 3rem;
   padding-top: 1.5rem;
