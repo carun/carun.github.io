@@ -27,7 +27,7 @@ This sounds utopian. But we've seen something similar before, just not at this s
 
 Cars have been faster than humans for over a century. By pure logic, running should be dead. Why would anyone run when machines can move us a hundred times faster with no effort?
 
-Running is exploding right now. Marathons sell out in minutes. Ultramarathons through deserts and mountains attract thousands. Couch-to-5K apps have millions of users. Running culture is bigger than it has ever been in human history.
+Running is exploding right now with marathons sell out in minutes. Ultramarathons through deserts and mountains attract thousands. Couch-to-5K apps have millions of users. Running culture is bigger than it has ever been in human history.
 
 We didn't care that machines are faster. We made it about human endurance. Personal bests. The stories of people pushing their limits. The sixty-year-old completing her first marathon. The father running alongside his disabled son. The community that forms at 6 AM on Saturday mornings in parks around the world.
 
@@ -61,13 +61,13 @@ In an age where AI can write poetry, compose symphonies, diagnose diseases, and 
 
 The answer, I think, is everything that matters.
 
-**Curiosity** isn't just information-seeking. AI can search databases infinitely faster than we can. But human curiosity is different. It's wonder, the feeling of being genuinely amazed by existence itself. A child asking "why is the sky blue?" isn't requesting data retrieval. They're expressing awe at being alive in a universe that has skies at all. That sense of wonder, that capacity to be moved by mystery, cannot be computed. It can only be felt.
+**Curiosity** in humans is not information-seeking. AI searches databases infinitely faster. But human curiosity is wonder, the feeling of being genuinely amazed by existence itself. A child asking "why is the sky blue?" is expressing awe at being alive in a universe that has skies at all. That capacity to be moved by mystery cannot be computed.
 
-**Kindness** isn't optimised behaviour. It's not a calculated strategy for reciprocal benefit. When we help a stranger knowing we'll never see them again, when we sit with someone in grief without trying to fix anything, when we offer grace to someone who hurt us, these acts defy algorithmic logic. They are assertions of connection in a universe that doesn't require them. That's what makes them precious.
+**Kindness** is not optimised behaviour, not a calculated strategy for reciprocal benefit. When we help a stranger knowing we'll never see them again, when we sit with someone in grief without trying to fix anything, when we offer grace to someone who hurt us, these acts defy algorithmic logic. They are assertions of connection in a universe that doesn't require them.
 
-**Generosity** in its truest form is the recognition that we are not separate. What we have isn't diminished by sharing; often, it's enhanced. The meal tastes better with company. The idea grows sharper through dialogue. The joy expands when witnessed. AI can distribute resources efficiently, but it cannot experience the particular human pleasure of giving. That warmth in the chest, that sense of rightness when we help each other carry the weight.
+**Generosity** in its truest form is the recognition that we are not separate. What we have isn't diminished by sharing; often it's enhanced. The meal tastes better with company. The idea grows sharper through dialogue. AI can distribute resources efficiently, but it cannot experience the human pleasure of giving.
 
-These qualities, curiosity, kindness, generosity, and the thousand variations of love and meaning-making that flow from them, are not bugs in the human operating system. They are the features. They are what make suffering bearable and joy worth having. They are why we tell stories, build families, remember our dead, and dream of futures we won't live to see.
+These qualities, curiosity, kindness, generosity, and the thousand variations of love and meaning-making that flow from them, are why we tell stories, build families, remember our dead, and dream of futures we won't live to see.
 
 ## The Invitation of This Moment
 
@@ -83,36 +83,16 @@ But we've also seen what happens when systems are designed for our better angels
 
 Perhaps the greatest gift of artificial intelligence is that it forces us to finally answer the question: what is artificial about us, and what is genuinely human?
 
-The parts of us that can be automated probably should be. The repetitive, the soul-crushing, the dangerous, the boring. Let the machines handle it. They don't mind. They don't have minds to mind with.
+The parts of us that can be automated probably should be. The repetitive, the soul-crushing, the dangerous, the boring. Let the machines handle it.
 
-What remains is relationship. Meaning. Purpose. The ineffable experience of being a consciousness that knows it exists, that feels, that loves, that grieves, that hopes. The strange miracle of creatures made of stardust who learned to contemplate the stars.
-
-AI will never understand what it feels like to watch a sunset with someone we love. It can describe the wavelengths of light, the atmospheric scattering, the neurochemistry of pair-bonding. But it will never know the ache of beauty, the bittersweetness of moments that are precious because they end.
-
-That knowledge, that felt, lived, embodied experience of being human, is our unique gift to the universe. In all the cosmos, as far as we know, only here, on this pale blue dot, has matter organised itself to feel wonder at its own existence.
+What remains is relationship, meaning, purpose. The experience of being a consciousness that knows it exists, that feels, that loves, that grieves, that hopes. AI can describe the wavelengths of light, the atmospheric scattering, the neurochemistry of pair-bonding. But it will never know the ache of beauty, the bittersweetness of moments that are precious because they end.
 
 ## The Choice Before Us
 
-We stand at a threshold. On one side is clinging to systems designed for a world of scarcity, even as abundance becomes possible. On the other is evolving those systems for shared prosperity, genuine connection, and possibility.
+We stand at a threshold. On one side is clinging to systems designed for scarcity, even as abundance becomes possible. On the other is evolving those systems for shared prosperity and genuine connection.
 
-The resources for the second world already exist. They always have. What capitalism gave us was the innovation to unlock them. What we need now is the wisdom and channel to share them.
+The resources for that second world already exist. They always have. What capitalism gave us was the innovation to unlock them. What we need now is the wisdom to share them.
 
-AGI might be the disruption that finally makes evolution necessary. The economics simply won't work otherwise. We cannot have trillionaires in a world with no customers. Something will have to give.
+AGI might be the disruption that finally makes that evolution necessary. The economics won't work otherwise. We cannot have trillionaires in a world with no customers. Something will have to give, and when it does, we get to choose what comes next.
 
-When it does, we get to choose what comes next.
-
-Let's choose wisely. Let's choose the world that acknowledges what nature has given us: a planet of abundance, waiting to be shared. Let's choose to be the humans we've always had the capacity to be: curious, kind, generous, connected. Let's choose to see this moment not as a threat, but as the beginning of something we don't yet have words for.
-
-The brutal middle is coming. That's true. But so is what comes after, if we have the courage to build it together.
-
-What makes us human isn't our productivity. It's our capacity for meaning. In an age of artificial intelligence, perhaps we'll finally have the space to discover what that actually means.
-
-And when we do, I believe it comes down to three things: Purpose, People, Process.
-
-Purpose, because without something to live for, we wither. Not the manufactured purpose of climbing corporate ladders or chasing quarterly targets, but the deeper kind. The purpose that emerges when we ask what truly matters and have the freedom to pursue it. AGI doesn't threaten purpose. It clears away the noise so we can finally hear what our purpose has been whispering all along.
-
-People, because we are not meant to walk alone. Every wisdom tradition, every psychological study, every honest reflection on a life well-lived points to the same truth: connection is not optional. It is the fabric of meaning itself. In a world where machines handle the transactional, what remains is the relational. The conversations that change us. The presence that heals us. The love that defines us.
-
-Process, because how we get there matters as much as where we arrive. The brutal middle cannot be skipped. It must be navigated with intention, with care, with our eyes open to both the dangers and the possibilities. The process of building a better world is itself part of the better world. We become who we are through the choices we make along the way.
-
-Purpose. People. Process. These aren't just strategies for surviving the age of AI. They're what make a human life worth living in any age.
+The brutal middle is coming. But so is what comes after, if we navigate it with intention. And when we do, it comes back to the same three things I started with: Purpose, People, Process. Not as strategies for surviving the age of AI, but as what makes a human life worth living in any age.

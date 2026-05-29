@@ -65,6 +65,4 @@ This stage exists in the map because the map was drawn assuming you could walk a
 | 3. Introspection | *yoga*, *dhyāna* | *samādhi*, *vipassanā* | *śukla-dhyāna* |
 | 4. Being | *jñāna* | *prajñā* | *kevala-jñāna* |
 
-If you feel that your inheritance has become a calendar of festivals you no longer understand (especially grew up in Asian or Christian), here is that map that was missing. You do not need to start with metaphysics. Start with stage one. Sweep something. Keep a small promise. The next stage opens when the previous one is solid and that has not changed in the past few thousand years.
-
-The fruit ripens in its own time. Bud -> blossom -> raw fruit -> ripe fruit. You just have to keep showing up.
+If you feel that your inheritance has become a calendar of festivals you no longer understand (especially if you grew up in an Asian or Christian household), this is the map that was missing. You do not need to start with metaphysics. Start with stage one. Sweep something. Keep a small promise. The next stage opens when the previous one is solid, and that has not changed in the past few thousand years.

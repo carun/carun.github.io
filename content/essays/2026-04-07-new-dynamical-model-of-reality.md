@@ -320,12 +320,4 @@ Liberation is not reaching a better state. It is the end of being driven to opti
 
 ## Final Thoughts
 
-This model does not claim that reality is literally a dynamical system. It uses that language to clarify something subtle.
-
-1. There is no need for a container of karma.
-
-2. There is only a process that shapes itself, moment by moment.
-
-3. Understanding this is not merely intellectual. It changes how one relates to action, habit, and identity.
-
-The system is not something you *have*. It is something that you are part of and is in action *right here, right now*.
+This model does not claim that reality is literally a dynamical system. It uses that language to clarify something subtle: there is no need for a container of karma. There is only a process that shapes itself, moment by moment. And understanding this is not merely intellectual. It changes how one relates to action, habit, and identity.

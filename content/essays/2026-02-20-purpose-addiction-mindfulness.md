@@ -71,7 +71,7 @@ In systems thinking terms, this is a reinforcing loop running unchecked - more g
 
 Recall that addiction is a reinforcing loop - compulsive behavior driven by the brain's reward system, with no counterweight. Mindfulness can serve as that counterweight. By training the mind to observe cravings without acting on them, it interrupts the automatic stimulus-response cycle that keeps the loop spinning.
 
-Mindfulness is the act and practice of paying deliberate, non-judgmental attention ("void of like/dislike") to the present moment, including thoughts, feelings, bodily sensations, and the surrounding environment. It involves awareness without reaction, allowing individuals to observe experiences as they are, rather than getting caught up in automatic responses or judgments. Common techniques include breath awareness, body scans, and mindful movement, often practiced through formal meditation or integrated into daily activities like eating or walking. Now, that's a relaxed, watered down definition of the modern times.
+Mindfulness is the act and practice of paying deliberate, non-judgmental attention ("void of like/dislike") to the present moment, including thoughts, feelings, bodily sensations, and the surrounding environment. It involves awareness without reaction, allowing individuals to observe experiences as they are, rather than getting caught up in automatic responses or judgments. Common techniques include breath awareness, body scans, and mindful movement, often practiced through formal meditation or integrated into daily activities like eating or walking. That is a relaxed, watered-down definition of the modern times.
 
 ## Active Mindfulness
 
@@ -87,7 +87,7 @@ U Pandita warns that Western interpretations often "water down" mindfulness, tur
 
 Such a mindfulness strengthens self-awareness and helps break habitual thought patterns, making it a valuable tool in managing anxiety, depression, and addiction. Where the reward system creates "wanting" that overrides rational intention, active mindfulness trains the capacity to observe that wanting without being consumed by it — restoring the space between stimulus and response where purpose can reassert itself.
 
-This is ultimately why process matters as much as purpose. Having the right intention is not enough if the mind's own feedback loops can hijack it. Mindfulness - the real kind, not the watered down variety - is the process that keeps purpose honest and the people around us closer. After all, happiness is not in the desination. It is in the journey itself!
+This is ultimately why process matters as much as purpose. Having the right intention is not enough if the mind's own feedback loops can hijack it. Mindfulness, the real kind and not the watered-down variety, is the process that keeps purpose honest and the people around us closer. After all, happiness is not in the desination. It is in the journey itself!
 
 [^1]: Purpose originates from the Middle English _purpos_ ("intention, aim, goal"), via Anglo-French from Old French _porposer_ ("to put forth") — _por-_ (Latin _pro-_, "forth") + _poser_ ("to put, place"). It corresponds to the Latin _propositum_, "a thing proposed or intended". The word entered English around the 1300s; the phrase _on purpose_ ("by design") dates to the 1580s.
 

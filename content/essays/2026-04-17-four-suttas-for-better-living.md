@@ -19,7 +19,7 @@ Everything you experience - your body, your feelings, your thoughts - they arise
 
 > If you can't control *it*, is it really *you*?
 
-In that moment, the sense of self begins to loosen. From then on, you won't just see differently. **You will live differently**.
+In that moment, the sense of self begins to loosen.
 
 ## Treatise on the Analysis of the Path [(SN 45.8)](https://suttacentral.net/sn45.8/en/sujato)
 
@@ -34,10 +34,4 @@ Further on:
 * **Right mindfulness** becomes continuous, clear awareness of body, feeling, mind and phenomena
 * **Right concentration** becomes a mind collected, steady and free of impurities
 
-So the path is simple. It just needs patience and perseverence. Approach it with a three step process:
-
-1. Observe clearly
-2. Understand the process
-3. Let go of the illusion and live the process.
-
-Because suffering doesn't end by force. It ends when it is truly understood.
+The path is simple, though not easy. Observe clearly, understand the process, let go of the illusion. Suffering doesn't end by force. It ends when it is truly understood.

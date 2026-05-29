@@ -47,7 +47,7 @@ This is an argument against letting the liking quietly upgrade itself into somet
 
 The cheapest defence is to notice the drift in yourself **early**. If a public figure's win or loss has started to feel like your own win or loss, you are already at Stage 2. If you have started arguing with strangers online on their behalf, you are already in Stage 3. Neither stage is a moral failure. Both stages are worth catching.
 
-The research has been sitting in the British Journal of Psychology for twenty-four years. It is not obscure. We can apply this to ourselves when we navigate in real life. Just observe ;-)
+The research has been sitting in the British Journal of Psychology for twenty-four years. It is not obscure. We can apply it to ourselves.
 
 [^1]: [McCutcheon, L. E., Lange, R., & Houran, J. (2002). Conceptualization and measurement of celebrity worship. British Journal of Psychology, 93(1), 67-87](https://www.academia.edu/download/40443985/Conceptualization_and_measurement_of_cel20151127-3161-xmaou8.pdf).
 

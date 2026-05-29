@@ -60,4 +60,4 @@ Reading falls into the same trap. Re-reading feels like learning because the wor
 
 ## So
 
-Next time you catch yourself saying you **know** something or someone well enough to read their deeper motives, stop and check: do you actually understand them, or have you just gotten used to them? Asking yourself that question is the first step toward real knowledge. It's slow at first, but it compounds, and what it compounds into is worth the wait.
+Next time you catch yourself saying you **know** something or someone well enough to read their deeper motives, stop and check: do you actually understand them, or have you just gotten used to them? That question is the first step toward real knowledge.
